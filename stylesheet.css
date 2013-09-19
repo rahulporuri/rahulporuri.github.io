@@ -4,7 +4,8 @@ div {
 
 #header {
 	z-index: 1;
-	position: fixed;
+	float:center;
+	position: relative;
 	width: 90%;
 	margin-top: -20px;
 	height: 60px;
@@ -13,7 +14,7 @@ div {
 }
 
 #name {
-	float:center;
+	float:left;
 	margin-left: 30px;
 	padding-top: 7px;
 	font-size: 16px;
@@ -22,7 +23,7 @@ div {
 }
 
 #email{
-	float:center;
+	float:right;
 	margin-right: 30px;
 	padding-top: 7px;
 	font-size: 16px;
@@ -54,21 +55,21 @@ a:hover {
 
 .left {
 	position: relative;
-	float: right;
+	float: left;
 	margin-top: 50px;
 	width: 50%;
 	height: 500px;
-	background-color: #FFFFFF;
+	background-color: #FFFFF0;
 	margin-bottom: 10px;
 }
 
 .right {
 	position: relative;
-	float: left;
+	float: right;
 	margin-top: 50px;
 	width: 50%;
 	height: 500px;
-	background-color: #FFFFFF;
+	background-color: #FFFFF0;
 	margin-bottom: 10px;
 }
 
