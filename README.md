@@ -1,7 +1,9 @@
 rahulporuri.github.io
 =====================
-The contents of this repository are my personal webpage files. I thought it better to host my site on github than on some paid service or on a college machine. And it looks cool having a name.github.io address :D
+The contents of this repository are my personal webpage files. I thought it better to host my site on github than on some paid service or on a college machine. And it looks cool having a username.github.io address :D
 
-I shall try experimenting with the layout of my site regularly - as a way to stay fresh and as a way to learn html and css better, starting with the two css style sheets that are left-handed and right-handed.
+I shall try experimenting with the layout of my site regularly - as a way to stay fresh and as a way to learn html and css better, starting with the two css style sheets that are left-handed and right-handed. Notice that the home page is left-handed while the rest of the pages are right-handed. I shall add more css elements to the page and also create a new css file to move the links from the left hand side and the right hand side of the page to the top and the bottom of the page. I have now created 2 new css files, *_ top & *_ bottom that display the links at the top and the bottom of the page respectively. Need to further modify them to add more padding on the links
 
-Further, i intend to move my blog here from blogger and have a simple display for my future blog posts.
+Further, i intend to move my blog here from blogger and have a simple display for my future blog posts. The blog link is already active with one post for now. Regularly writing blog posts here will make sure I stay active on github as well :D. Also, need to add more professional look to the posts and the website as a whole by displaying the most recent edit to the page or the original date/time the page was made.
+
+Coming to my work, I need to add more pages describing my work so far in detail i.e individual pages for each of the school/workshop/internship i've done over the last couple of years. There's a rudimentary content on the about me page and in the work page which will be augmented with these pages.

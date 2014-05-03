@@ -10,9 +10,9 @@ h1{
 	margin-left:10px;
 
 	padding-top:2px;
-	padding-right:2px;
+	padding-right:0px;
 	padding-bottom:2px;
-	padding-left:2px;
+	padding-left:0px;
 }
 
 h2{
@@ -36,21 +36,26 @@ body{
 
 #links{
 	position:absolute;
-	top:100px;
-	left:1000px;
-	width:300px;
+	top:50px;
+	left:200px;
+	width:800px;
+	padding-right:0px;
+	padding-left:0px;
 }
 
 #content{
 	position:absolute;
-	top:100px;
-	left:100px;
-	width:800px;
+	top:150px;
+	left:550px;
+	width:500px;
 }
 
 #image{
 	position:absolute;
-	top:100px;
-	left:90px;
+	top:150px;
+	left:200px;
 	width:400px;
 }
+
+/*use font size of 2 or less for the headings.*/
+/*use image size of ~500px or smaller. the image takes up an extremely large portion of the page otherwise.*/
