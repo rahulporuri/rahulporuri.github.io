@@ -2,8 +2,15 @@ rahulporuri.github.io
 =====================
 The contents of this repository are my personal webpage files. I thought it better to host my site on github than on some paid service or on a college machine. And it looks cool having a username.github.io address :D
 
-I shall try experimenting with the layout of my site regularly - as a way to stay fresh and as a way to learn html and css better, starting with the two css style sheets that are left-handed and right-handed. Notice that the home page is left-handed while the rest of the pages are right-handed. I shall add more css elements to the page and also create a new css file to move the links from the left hand side and the right hand side of the page to the top and the bottom of the page. I have now created 2 new css files, *_ top & *_ bottom that display the links at the top and the bottom of the page respectively. Need to further modify them to add more padding on the links. A new style sheet corresponding to a checkered pattern has now been added - displays links/info and images in an alternative fashion.
+features implemented so far - 
+* style sheets corresponding to the menu bar being on the left, right, top and bottom of the web page.
+* style sheet giving a two column/checkered layout to the webpage.
 
-Further, i intend to move my blog here from blogger and have a simple display for my future blog posts. The blog link is already active with one post for now. Regularly writing blog posts here will make sure I stay active on github as well :D. Also, need to add more professional look to the posts and the website as a whole by displaying the most recent edit to the page or the original date/time the page was made.
-
-Coming to my work, I need to add more pages describing my work so far in detail i.e individual pages for each of the school/workshop/internship i've done over the last couple of years. There's a rudimentary content on the about me page and in the work page which will be augmented with these pages.
+to be implemented - 
+* use of multiple fonts (headings and text) and colors (background, on menus). 
+* make list of good fonts - not just for website but for general typesetting!
+* modifying how links in the menu bar look.
+* edges/boxes around the content and menu. 
+* date and time of update.
+* time stamp on blog posts.
+* add research pages corresponding to schools/workshops and projects - with data/codes/presentations/reports.
