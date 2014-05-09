@@ -57,3 +57,12 @@ body{
 	left:60%;
 	width:300px;
 }
+
+/* Needs to be corrected for in this case.
+#time{
+	position:absolute;
+	top:95%;
+	left:200px;
+	width:400px;
+}
+*/ 

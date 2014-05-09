@@ -23,5 +23,11 @@ body{
 	width:400px;
 }
 
+#time{
+	position:absolute;
+	top:95%;
+	left:200px;
+	width:400px;
+}
 /*use font size of 2 or less for the headings.*/
 /*use image size of ~500px or smaller. the image takes up an extremely large portion of the page otherwise.*/

@@ -22,3 +22,10 @@ body{
 	left:200px;
 	width:400px;
 }
+
+#time{
+	position:absolute;
+	top:95%;
+	left:600px;
+	width:400px;
+}
