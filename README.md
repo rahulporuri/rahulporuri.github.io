@@ -6,6 +6,7 @@ features implemented so far -
 * style sheets corresponding to the menu bar being on the left, right, top and bottom of the web page.
 * style sheet giving a two column/checkered layout to the webpage.
 * date and time of update.
+* font and color combinations.
 
 to be implemented - 
 * concert npx to n% in stylesheets.
@@ -15,3 +16,28 @@ to be implemented -
 * edges/boxes around the content and menu. 
 * time stamp on blog posts.
 * add research pages corresponding to schools/workshops and projects - with data/codes/presentations/reports.
+
+some interesting fonts to use are - 
+* verdana is too fat. 
+* not arial. is too thick
+* times new roman is just bleh
+* not cambria " "
+* courier new is standard again!
+* Palatino linotype can be tried
+* segoe print/script are interesting
+* gabriola is some fancy font
+* consolas is terminal font! :D...
+* so is corbel
+* candara is awesome! 
+* trebuchet just close to perfection.
+
+and some interesting colors to choose are - 
+* #FFFFFA
+* #00D9FF
+* #FF9933
+* #FFCC66
+* #99CCFF
+* #0099CC
+* #29A3A3
+* #CCFFFF
+* #669999
