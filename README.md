@@ -31,6 +31,8 @@ some interesting fonts to use are -
 * candara is awesome! 
 * trebuchet just close to perfection.
 
+I should learn how to install and use new fonts and check out some of the fonts available [here](http://www.fontsquirrel.com/fonts/list/popular), [here](http://www.webdesignerdepot.com/2011/08/the-most-popular-fonts-used-by-designers/) and [here](http://platowebdesign.com/articles/fonts/). 
+
 and some interesting colors to choose are - 
 * #FFFFFA
 * #00D9FF
@@ -41,3 +43,5 @@ and some interesting colors to choose are -
 * #29A3A3
 * #CCFFFF
 * #669999
+
+for help with markdown, refer to the [*mastering markdown guide*](https://guides.github.com/features/mastering-markdown/) by github.
