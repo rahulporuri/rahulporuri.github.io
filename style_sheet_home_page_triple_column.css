@@ -1,0 +1,36 @@
+body{
+	background-color:#FFFFFF;
+}
+
+#links{
+	position:absolute;
+	text-align: right;
+	top:10%;
+	left:2%;
+	width:20%;
+}
+
+#image{
+	position:absolute;
+	top:10%;
+	left:25%;
+	width:25%;
+}
+
+#content{
+	position:absolute;
+	text-align: left;
+	top:10%;
+	left:52%;
+	width:45%;
+}
+
+#time{
+	position:absolute;
+	text-align: right;
+	top:95%;
+	left:2%;
+	width:20%;
+}
+
+border: solid gray;
