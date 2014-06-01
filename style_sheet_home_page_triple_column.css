@@ -8,6 +8,10 @@ body{
 	top:10%;
 	left:2%;
 	width:20%;
+	padding-top: 10px;
+	padding-right: 10px;
+	border-left: 2px solid gray;
+	border-top: 2px solid gray;
 }
 
 #image{
@@ -15,6 +19,7 @@ body{
 	top:10%;
 	left:25%;
 	width:25%;
+	padding-top: 10px;
 }
 
 #content{
@@ -23,6 +28,10 @@ body{
 	top:10%;
 	left:52%;
 	width:45%;
+	padding-left: 10px;
+	padding-top: 10px;
+	border-right: 2px solid gray;
+	border-bottom: 2px solid gray;
 }
 
 #time{

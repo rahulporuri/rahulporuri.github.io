@@ -7,15 +7,15 @@ features implemented so far -
 * style sheet giving a two column/checkered layout to the webpage.
 * date and time of update.
 * font and color combinations.
+* converted npx to n% on main stylesheet, to be done on the rest!
+* making a list of good fonts, a continuous process!
+* added research pages corresponding to ATSOA, POS. Need to add intern research pages!
 
 to be implemented - 
-* concert npx to n% in stylesheets.
 * use of multiple fonts (headings and text) and colors (background, on menus). 
-* make list of good fonts - not just for website but for general typesetting!
 * modifying how links in the menu bar look.
 * edges/boxes around the content and menu. 
 * time stamp on blog posts.
-* add research pages corresponding to schools/workshops and projects - with data/codes/presentations/reports.
 
 some interesting fonts to use are - 
 * verdana is too fat. 
