@@ -7,15 +7,28 @@ features implemented so far -
 * style sheet giving a two column/checkered layout to the webpage.
 * date and time of update.
 * font and color combinations.
+<<<<<<< HEAD
 * converted npx to n% on main stylesheet, to be done on the rest!
 * making a list of good fonts, a continuous process!
 * added research pages corresponding to ATSOA, POS. Need to add intern research pages!
 
 to be implemented - 
+=======
+* research pages for ATSOA and POS have been added with links to respective presentations made. Need to add pages for IIST research and Swin research.
+* converted npx to n% in the stylesheet currently behind the triple columned home page!
+* list of good fonts. this is just the beginning, need to learn to use google webfonts and then look for good ones there!
+
+to be implemented - 
+
+>>>>>>> 616db294b9c71abe01b52016a0038ab68b34f99b
 * use of multiple fonts (headings and text) and colors (background, on menus). 
 * modifying how links in the menu bar look.
 * edges/boxes around the content and menu. 
 * time stamp on blog posts.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 616db294b9c71abe01b52016a0038ab68b34f99b
 
 some interesting fonts to use are - 
 * verdana is too fat. 
