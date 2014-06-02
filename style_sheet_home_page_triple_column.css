@@ -1,5 +1,17 @@
 body{
+	background-image: url("grey.png");
+	background-repeat: repeat;
+}
+
+#encompass{
+	position:absolute;
 	background-color:#FFFFFF;
+	top:8%;
+	left:1%;
+	height: 80%;
+	width:98%;
+	background-image: url("grey.png");
+	background-repeat: repeat
 }
 
 #links{
