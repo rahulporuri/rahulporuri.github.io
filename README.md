@@ -11,6 +11,7 @@ features implemented so far -
 * making a list of good fonts, a never-ending process!
 * added research pages corresponding to ATSOA, POS. Need to add intern research pages!
 * border around the content and links.  I'm satisfied with the overall design now.
+* background image - subtlebackground, grey.
 
 to be implemented - 
 * use of multiple fonts (headings and text) and colors (background, on menus). 
