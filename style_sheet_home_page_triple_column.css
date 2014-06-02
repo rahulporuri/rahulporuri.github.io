@@ -17,7 +17,7 @@ body{
 #links{
 	position:absolute;
 	text-align: right;
-	top:10%;
+	top:15%;
 	left:2%;
 	width:20%;
 	padding-top: 10px;
@@ -28,7 +28,7 @@ body{
 
 #image{
 	position:absolute;
-	top:10%;
+	top:15%;
 	left:25%;
 	width:25%;
 	padding-top: 10px;
@@ -37,7 +37,7 @@ body{
 #content{
 	position:absolute;
 	text-align: left;
-	top:10%;
+	top:15%;
 	left:52%;
 	width:45%;
 	padding-left: 10px;
