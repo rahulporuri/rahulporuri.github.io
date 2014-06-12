@@ -11,7 +11,7 @@ body{
 	height: 80%;
 	width:98%;
 	background-image: url("grey.png");
-	background-repeat: repeat;
+	background-repeat: repeat
 }
 
 #links{
