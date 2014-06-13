@@ -17,6 +17,12 @@ to be implemented -
 * use of multiple fonts (headings and text) and colors (background, on menus). 
 * modifying how links in the menu bar look.
 * time stamp on blog posts.
+* remove left/right & top/bottom copies and add comments at the end of the css files instead of having extra files.
+* figure out how to determine the size of the screen using js or using css functions.
+
+* how to fill boxes with text to the end using apostaphies instead of full words being skipped to the next sentence.
+* use the star wars themed text scroller on the website
+* use a terminal themed site which can access files using ls/more/less/cd etc
 
 some interesting fonts to use are - 
 * verdana is too fat. 
