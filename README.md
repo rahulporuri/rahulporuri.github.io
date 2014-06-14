@@ -21,8 +21,9 @@ to be implemented -
 * figure out how to determine the size of the screen using js or using css functions.
 
 * how to fill boxes with text to the end using apostaphies instead of full words being skipped to the next sentence.
-* use the star wars themed text scroller on the website
-* use a terminal themed site which can access files using ls/more/less/cd etc
+* use the star wars themed text scroller,implemented [here](http://www.sitepoint.com/css3-starwars-scrolling-text/)
+* use a terminal themed site which can access files using ls/more/less/cd etc similar to the one found [here](http://try.github.com/)
+* complete the html, css and js exercises found on [codeschool](http://www.codeschool.com/)
 
 some interesting fonts to use are - 
 * verdana is too fat. 
