@@ -21,7 +21,7 @@ to be implemented -
 * figure out how to determine the size of the screen using js or using css functions.
 * set the height of the encompass id depending on the length of text inside!
 
-* how to fill boxes with text to the end using apostaphies instead of full words being skipped to the next sentence.
+* how to fill boxes with text to the end using apostaphies instead of full words being skipped to the next sentence - using css regions and css exclusions refer to the tutorial [here](http://www.html5rocks.com/en/tutorials/regions/adobe/)
 * use the star wars themed text scroller,implemented [here](http://www.sitepoint.com/css3-starwars-scrolling-text/)
 * use a terminal themed site which can access files using ls/more/less/cd etc similar to the one found [here](http://try.github.com/)
 
