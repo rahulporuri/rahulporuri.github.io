@@ -12,6 +12,7 @@ features implemented so far -
 * added research pages corresponding to ATSOA, POS. Need to add intern research pages!
 * border around the content and links.  I'm satisfied with the overall design now.
 * background image - subtlebackground, grey.
+* the first of the css exercises on [codeschool](http://www.codeschool.com/) are done, the rest are behind a paywall. talks about html attributes aside, article. Also checkout the new html attributes in html5!
 
 to be implemented - 
 * use of multiple fonts (headings and text) and colors (background, on menus). 
@@ -23,33 +24,25 @@ to be implemented -
 * how to fill boxes with text to the end using apostaphies instead of full words being skipped to the next sentence.
 * use the star wars themed text scroller,implemented [here](http://www.sitepoint.com/css3-starwars-scrolling-text/)
 * use a terminal themed site which can access files using ls/more/less/cd etc similar to the one found [here](http://try.github.com/)
-* complete the html, css and js exercises found on [codeschool](http://www.codeschool.com/)
 
 some interesting fonts to use are - 
-* verdana is too fat. 
-* not arial. is too thick
-* times new roman is just bleh
-* not cambria " "
-* courier new is standard again!
-* Palatino linotype can be tried
-* segoe print/script are interesting
-* gabriola is some fancy font
-* consolas is terminal font! :D...
-* so is corbel
-* candara is awesome! 
-* trebuchet just close to perfection.
+* verdana is too fat. arial is too thick
+* times new roman is just bleh and not cambria either
+* courier new is typical!
+* Palatino linotype is ohkay
+* segoe print/script are interesting and gabriola is a fancy font
+* consolas is terminal font and so is corbel! :D...
+* candara is awesome and trebuchet just close to perfection.
+* Source Sans Pro and Old Standard TT
+* Rockwell, Roboto, Raleway, PT Sans, Open Sans, Gill Sans
+* Exo, Futura, Droid Sans, Coustard, Cabin, Arvo, Bitter
+
 
 I should learn how to install and use new fonts and check out some of the fonts available [here](http://www.fontsquirrel.com/fonts/list/popular), [here](http://www.webdesignerdepot.com/2011/08/the-most-popular-fonts-used-by-designers/) and [here](http://platowebdesign.com/articles/fonts/). 
 
 and some interesting colors to choose are - 
-* #FFFFFA
-* #00D9FF
-* #FF9933
-* #FFCC66
-* #99CCFF
-* #0099CC
-* #29A3A3
-* #CCFFFF
-* #669999
+* #FFFFFA, #00D9FF, #FF9933, #FFCC66
+* #99CCFF, #0099CC, #29A3A3
+* #CCFFFF, #669999
 
 for help with markdown, refer to the [*mastering markdown guide*](https://guides.github.com/features/mastering-markdown/) by github.

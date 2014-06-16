@@ -3,6 +3,13 @@ body{
 	background-repeat: repeat;
 }
 
+aside{
+	width:200px;
+	height: 200px;
+	margin:10px;
+	float:right;
+}
+
 #links{
 	position:absolute;
 	top:10%;
@@ -16,3 +23,7 @@ body{
 	left:6%;
 	width:65%;
 }
+
+/*Use of floar and new html identifiers like aside, article
+as mentioned in the codeschool css course to create multi columned
+or text wrapped elements*/
