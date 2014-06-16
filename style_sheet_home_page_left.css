@@ -4,11 +4,11 @@ body{
 }
 
 aside{
-	width:200px;
-	height: 200px;
-	margin:10px;
 	float:right;
 	text-align: left;
+	font-family:'Sawasdee',sans-serif;
+	margin-top: 50px;
+	margin-left: 5%;
 }
 
 #encompass{
@@ -16,8 +16,8 @@ aside{
 	background-color:#FFFFFF;
 	top:12%;
 	left:16%;
-	height:1100px;
-	width:900px;
+	height:1200px;
+	width:800px;
 	border-top: 4px solid-gray;
 }
 
@@ -25,12 +25,35 @@ aside{
 	position:absolute;
 	top:50px;
 	left:10%;
-	width:600px;
+	
 }
 
 #content{
 	position:absolute;
 	top:600px;
 	left:50px;
-	width:800px;
+	width:85%;
+	font-family:'Sawasdee',sans-serif;
 }
+
+/*
+*_right.css file
+
+body{
+	background-color:#FFFFFF;
+}
+
+#content{
+	position:absolute;
+	top:100px;
+	left:300px;
+	width:600px;
+}
+
+#image{
+	position:absolute;
+	top:100px;
+	left:1000px;
+	width:400px;
+}
+*/

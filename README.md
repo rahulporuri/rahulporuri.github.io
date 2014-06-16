@@ -13,13 +13,13 @@ features implemented so far -
 * border around the content and links.  I'm satisfied with the overall design now.
 * background image - subtlebackground, grey.
 * the first of the css exercises on [codeschool](http://www.codeschool.com/) are done, the rest are behind a paywall. talks about html attributes aside, article. Also checkout the new html attributes in html5!
+* currently using sawasdee on the webpage, set starry background image and white for text/image. more changes (to links!)?
 
 to be implemented - 
-* use of multiple fonts (headings and text) and colors (background, on menus). 
-* modifying how links in the menu bar look.
 * time stamp on blog posts.
 * remove left/right & top/bottom copies and add comments at the end of the css files instead of having extra files.
 * figure out how to determine the size of the screen using js or using css functions.
+* set the height of the encompass id depending on the length of text inside!
 
 * how to fill boxes with text to the end using apostaphies instead of full words being skipped to the next sentence.
 * use the star wars themed text scroller,implemented [here](http://www.sitepoint.com/css3-starwars-scrolling-text/)
@@ -37,6 +37,7 @@ some interesting fonts to use are -
 * Rockwell, Roboto, Raleway, PT Sans, Open Sans, Gill Sans
 * Exo, Futura, Droid Sans, Coustard, Cabin, Arvo, Bitter
 
+* dejavu, droid, freemono, freesans, sawasdee - fonts that work.
 
 I should learn how to install and use new fonts and check out some of the fonts available [here](http://www.fontsquirrel.com/fonts/list/popular), [here](http://www.webdesignerdepot.com/2011/08/the-most-popular-fonts-used-by-designers/) and [here](http://platowebdesign.com/articles/fonts/). 
 

@@ -29,5 +29,45 @@ body{
 	left:200px;
 	width:400px;
 }
+
+/*use font size of 2 or less for the headings.*/
+/*use image size of ~500px or smaller. the image takes up an extremely large portion of the page otherwise.*/
+
+/* 
+
+*_bottom.css file
+
+body{
+	background-color:#FFFFFF;
+}
+
+#links{
+	position:absolute;
+	top:550px;
+	left:200px;
+	width:800px;
+}
+
+#content{
+	position:absolute;
+	top:50px;
+	left:550px;
+	width:500px;
+}
+
+#image{
+	position:absolute;
+	top:50px;
+	left:200px;
+	width:400px;
+}
+
+#time{
+	position:absolute;
+	top:95%;
+	left:200px;
+	width:400px;
+}
+
 /*use font size of 2 or less for the headings.*/
 /*use image size of ~500px or smaller. the image takes up an extremely large portion of the page otherwise.*/
