@@ -18,9 +18,14 @@ aside{
 	background-color:#FFFFFF;
 	top:12%;
 	left:16%;
-	height:2550px;
+	height:2500px;
 	width:800px;
+	/*overflow: auto;*/
 }
+
+/*overflow:auto to expand parent div to child height
+instead of having to set height of parent div which overflows
+refer to - http://stackoverflow.com/questions/2779554/css-auto-height-on-containing-div-100-height-on-background-div-inside-contain*/
 
 #content{
 	position:absolute;
@@ -30,7 +35,7 @@ aside{
 	font-family:'Sawasdee',sans-serif;
 }
 
-/*Use of floar and new html identifiers like aside, article
+/*Use of float and new html identifiers like aside, article
 as mentioned in the codeschool css course to create multi columned
 or text wrapped elements*/
 
