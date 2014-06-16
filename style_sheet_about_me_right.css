@@ -1,5 +1,5 @@
 body{
-	background-image: url("grey.png");
+	background-image: url("stardust/stardust.png");
 	background-repeat: repeat;
 }
 
@@ -8,20 +8,30 @@ aside{
 	height: 200px;
 	margin:10px;
 	float:right;
+	text-align: right;
+	font-size: '5';
+	font-family: courier;
 }
 
-#links{
+article{
+	font-size: 3;
+	font-family: courier;
+}
+
+#encompass{
 	position:absolute;
-	top:10%;
-	left:75%;
-	width:8%;
+	background-color:#FFFFFF;
+	top:12%;
+	left:16%;
+	height:2750px;
+	width:900px;
 }
 
 #content{
 	position:absolute;
-	top:10%;
+	margin-top: 6%;
 	left:6%;
-	width:65%;
+	width:85%;
 }
 
 /*Use of floar and new html identifiers like aside, article

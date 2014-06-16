@@ -1,6 +1,14 @@
 body{
-	background-image: url("grey.png");
+	background-image: url("stardust/stardust.png");
 	background-repeat: repeat;
+}
+
+aside{
+	width:200px;
+	height: 200px;
+	margin:10px;
+	float:right;
+	text-align: left;
 }
 
 #encompass{
@@ -13,18 +21,11 @@ body{
 	border-top: 4px solid-gray;
 }
 
-#links{
-	position:absolute;
-	top:50px;
-	left:50%;
-	width:300px;
-}
-
 #image{
 	position:absolute;
 	top:50px;
 	left:10%;
-	width:400px;
+	width:600px;
 }
 
 #content{
