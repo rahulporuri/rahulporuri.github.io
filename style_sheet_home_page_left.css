@@ -25,7 +25,13 @@ aside{
 	position:absolute;
 	top:50px;
 	left:10%;
-	
+}
+
+#links{
+	position: absolute;
+	top:50px;
+	left:55%;
+	font-family:'Sawasdee',sans-serif;
 }
 
 #content{
