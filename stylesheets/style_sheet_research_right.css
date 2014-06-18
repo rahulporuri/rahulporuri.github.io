@@ -1,0 +1,78 @@
+body{
+	background-image: url("../stardust/stardust.png");
+	background-repeat: repeat;
+}
+
+aside{
+	width:275px;
+	height: 250px;
+	margin-bottom: 10px;
+	float:right;
+	text-align: right;
+	font-size: '5';
+	font-family:'Sawasdee',;
+}
+
+#encompass{
+	position:absolute;
+	background-color:#FFFFFF;
+	top:12%;
+	left:16%;
+	height:2700px;
+	width:800px;
+	/*overflow: auto;*/
+}
+
+/*overflow:auto to expand parent div to child height
+instead of having to set height of parent div which overflows
+refer to - http://stackoverflow.com/questions/2779554/css-auto-height-on-containing-div-100-height-on-background-div-inside-contain*/
+
+#content{
+	position:absolute;
+	margin-top: 6%;
+	left:6%;
+	width:85%;
+	font-family:'Sawasdee',sans-serif;
+}
+
+/*Use of float and new html identifiers like aside, article
+as mentioned in the codeschool css course to create multi columned
+or text wrapped elements*/
+
+/*
+
+*_left.css file
+
+body{
+	background-color:#FFFFFA;
+}
+
+#links{
+	position:absolute;
+	top:100px;
+	left:100px;
+	width:300px;
+}
+
+#content{
+	position:absolute;
+	top:100px;
+	left:500px;
+	width:800px;
+}
+
+#image{
+	position:absolute;
+	top:400px;
+	left:100px;
+	width:400px;
+}
+
+#time{
+	position:absolute;
+	top:95%;
+	left:100px;
+	width:400px;
+}
+
+*/
