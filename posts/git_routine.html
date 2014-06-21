@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<title>Blog</title>
+	<link rel="stylesheet" href="../stylesheets/style_sheet_about_me_right.css">
+</head>
+
+<body>
+	<div id="encompass">
+		<div id="content">
+			<aside>
+				<font size='6'>
+					<a href="../index.html">Home</a><br>
+					<a href="../about_me.html">About Me</a><br>
+					<a href="../research.html">Research</a><br>
+					<a href="../contact.html">Contact</a><br>
+					<a href="../blog.html">Blog</a><br>
+				</font>
+			</aside>
+
+			<font size='5'>
+				Git routine.<br><br>
+			</font>
+			<font size='4'>
+				I did not know the git routine on linux so i chose the dark side. <a href="https://windows.github.com">GitHub for Windows</a> was of enormous help to get me started with GitHub and i was happily clicking away to commit and push for over a month. But the day had finally come for me to switch back to linux and learn how the git (command line) routine.<br><br>
+
+				One starts off with generating an (unique) SSH key on your computer and adding this to your GitHub profile. Refer to this <a href="https://help.github.com/articles/generating-ssh-keys">github help article</a> to know how to generate said SSH keys and adding them.<br><br>
+
+				<em>NOTE: if the directory ~/.ssh does not exist, then create one. If you haven't used ssh on your system so far, there will not exist one.</em><br><br>
+
+				Post authentication, sync your GitHub online repositories with your local ones, if you have such. One can use either 
+				<em>$git pull https://github.com/reposity.git</em> or <br><em>$git clone https://github.com/reposity.git</em> to do so.
+
+				The advantage of 
+				<em>$git clone https://github.com/foobar.git</em>  over <br><em>$git pull https://github.com/foobar.git</em>
+				is that a remote origin will by default be added to which commits will be pushed. Simply put, the routine becomes 
+				<em>$git pull https://github.com/foobar.git<br>
+				$git remote add foobar https://github.com/foobar.git<br>$git push foobar</em>
+				or just
+				<em>$git clone https://github.com/foobar.git<br>$git push origin</em>
+
+				<em>$git add .</em>  or<br><em>$git add folder/*</em> can be used to check the current/specific directory for changes and staging them for commit.
+				<em>$git commit -m 'commit message'</em> will commit the staged changes. One can also do 
+				<em>$git commit -a -m 'commit message'</em> to directly add changes, staging them and committing them at once.
+				And finally,<em>$git push origin/foobar</em> will push the commits to the master branch (unless otherwise specified).
+				<em>$git status</em> is a convenience command to check, at different points in time, what the changes are, what files are being staged for a commit or waiting to be pushed. 
+			</font>
+		</div>
+	</div>
+</body>
+</html>
