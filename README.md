@@ -23,6 +23,8 @@ to be implemented -
 * set the height of the encompass id depending on the length of text inside!
 * how to fill boxes with text to the end using apostaphies instead of full words being skipped to the next sentence - using css regions and css exclusions refer to the tutorial [here](http://www.html5rocks.com/en/tutorials/regions/adobe/)
 * use a terminal themed site which can access files using ls/more/less/cd etc similar to the one found [here](http://try.github.com/)
+* a new div for blocks of code - a different font, probably times new roman and a different background color, probably grey.
+* rounded edges for every div element.
 
 some interesting fonts to use are - 
 * verdana is too fat. arial is too thick
