@@ -16,6 +16,8 @@ features implemented so far -
 * currently using sawasdee on the webpage, set starry background image and white for text/image. more changes (to links!)?
 * the star wars themed text scroller implemented. [reference](http://www.sitepoint.com/css3-starwars-scrolling-text/)
 * removed redundant left/right & top/bottom css file copies and added them as comments at the end of the css files.
+* created div code for code blocks. see git routine blog post for example. although problems exist between parent and child div!
+* implemented rounded edges using border-radius
 
 to be implemented - 
 * time stamp on blog posts.
@@ -23,8 +25,7 @@ to be implemented -
 * set the height of the encompass id depending on the length of text inside!
 * how to fill boxes with text to the end using apostaphies instead of full words being skipped to the next sentence - using css regions and css exclusions refer to the tutorial [here](http://www.html5rocks.com/en/tutorials/regions/adobe/)
 * use a terminal themed site which can access files using ls/more/less/cd etc similar to the one found [here](http://try.github.com/)
-* a new div for blocks of code - a different font, probably times new roman and a different background color, probably grey.
-* rounded edges for every div element.
+
 
 some interesting fonts to use are - 
 * verdana is too fat. arial is too thick
@@ -45,5 +46,6 @@ and some interesting colors to choose are -
 * #FFFFFA, #00D9FF, #FF9933, #FFCC66
 * #99CCFF, #0099CC, #29A3A3
 * #CCFFFF, #669999
+[W3color picker](http://www.w3schools.com/html/html_colornames.asp) page is a good reference.
 
 for help with markdown, refer to the [*mastering markdown guide*](https://guides.github.com/features/mastering-markdown/) by github.

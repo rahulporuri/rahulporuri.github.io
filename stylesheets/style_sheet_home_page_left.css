@@ -19,6 +19,7 @@ aside{
 	height:1200px;
 	width:800px;
 	border-top: 4px solid-gray;
+	border-radius: 10px;
 }
 
 #image{

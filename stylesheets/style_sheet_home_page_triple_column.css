@@ -12,6 +12,7 @@ body{
 	width:98%;
 	background-image: url("grey.png");
 	background-repeat: repeat;
+	border-radius: 10px;
 }
 
 #links{

@@ -20,6 +20,7 @@ aside{
 	left:16%;
 	height:1850px;
 	width:800px;
+	border-radius: 10px;
 	/*overflow: auto;*/
 }
 
@@ -33,6 +34,16 @@ refer to - http://stackoverflow.com/questions/2779554/css-auto-height-on-contain
 	left:6%;
 	width:85%;
 	font-family:'Sawasdee',sans-serif;
+	border-radius: 10px;
+}
+
+#code{
+	position: absolute;
+	font-family: 'Courier new';
+	background-color:#D3D3D3;
+	width:100%;
+	padding-left: 15px;
+	border-radius: 10px;
 }
 
 /*Use of float and new html identifiers like aside, article
