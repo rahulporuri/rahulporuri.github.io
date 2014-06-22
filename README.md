@@ -18,6 +18,7 @@ features implemented so far -
 * removed redundant left/right & top/bottom css file copies and added them as comments at the end of the css files.
 * created div code for code blocks. see git routine blog post for example. although problems exist between parent and child div!
 * implemented rounded edges using border-radius
+* added rocket.png file as the head shortcut image. found [here](http://4vector.com/free-vector/rocket-clip-art-116937)
 
 to be implemented - 
 * time stamp on blog posts.
