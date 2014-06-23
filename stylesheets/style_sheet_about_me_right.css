@@ -4,7 +4,7 @@ body{
 }
 
 aside{
-	width:275px;
+	width:200px;
 	height: 250px;
 	margin-bottom: 10px;
 	float:right;
@@ -16,8 +16,9 @@ aside{
 #encompass{
 	position:absolute;
 	background-color:#FFFFFF;
-	top:12%;
-	left:16%;
+	left:0;
+	right: 0;
+	margin: auto;
 	height:1850px;
 	width:800px;
 	border-radius: 10px;

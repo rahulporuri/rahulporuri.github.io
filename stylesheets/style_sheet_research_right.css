@@ -16,8 +16,9 @@ aside{
 #encompass{
 	position:absolute;
 	background-color:#FFFFFF;
-	top:12%;
-	left:16%;
+	left:0;
+	right: 0;
+	margin: auto;
 	height:2700px;
 	width:800px;
 	border-radius: 10px;

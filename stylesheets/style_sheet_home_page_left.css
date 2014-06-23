@@ -14,8 +14,9 @@ aside{
 #encompass{
 	position:absolute;
 	background-color:#FFFFFF;
-	top:12%;
-	left:16%;
+	right: 0;
+	left: 0;
+	margin: auto;
 	height:1200px;
 	width:800px;
 	border-top: 4px solid-gray;
@@ -24,22 +25,22 @@ aside{
 
 #image{
 	position:absolute;
-	top:50px;
-	left:10%;
+	top:60px;
+	left:60px;
 }
 
 #links{
 	position: absolute;
-	top:50px;
-	left:55%;
+	top:60px;
+	left:420px;
 	font-family:'Sawasdee',sans-serif;
 }
 
 #content{
 	position:absolute;
 	top:600px;
-	left:50px;
-	width:85%;
+	left:60px;
+	right: 60px;
 	font-family:'Sawasdee',sans-serif;
 }
 
