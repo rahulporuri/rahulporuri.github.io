@@ -17,7 +17,7 @@ aside{
 	right: 0;
 	left: 0;
 	margin: auto;
-	height:1200px;
+	height:1250px;
 	width:800px;
 	border-top: 4px solid-gray;
 	border-radius: 10px;
@@ -32,13 +32,13 @@ aside{
 #links{
 	position: absolute;
 	top:60px;
-	left:420px;
+	left:450px;
 	font-family:'Sawasdee',sans-serif;
 }
 
 #content{
 	position:absolute;
-	top:600px;
+	top:660px;
 	left:60px;
 	right: 60px;
 	font-family:'Sawasdee',sans-serif;
