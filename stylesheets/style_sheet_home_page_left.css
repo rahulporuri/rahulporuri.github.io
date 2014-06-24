@@ -5,9 +5,9 @@ body{
 
 aside{
 	float:right;
-	text-align: left;
+	width: 50px;
 	font-family:'Sawasdee',sans-serif;
-	margin-top: 50px;
+	margin-top: 15px;
 	margin-left: 5%;
 }
 
