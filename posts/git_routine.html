@@ -7,6 +7,17 @@
 	<link rel="stylesheet" href="../stylesheets/style_sheet_about_me_right.css">
 </head>
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32721845-2', 'rahulporuri.github.io');
+  ga('send', 'pageview');
+
+</script>
+
 <body>
 	<div id="encompass">
 		<div id="content">
@@ -29,30 +40,35 @@
 				One starts off with generating an (unique) SSH key on your computer and adding this to your GitHub profile. Refer to this <a href="https://help.github.com/articles/generating-ssh-keys">github help article</a> to know how to generate said SSH keys and adding them.<br><br>
 
 				<em>NOTE: if the directory ~/.ssh does not exist, then create one. If you haven't used ssh on your system so far, there will not exist one.</em><br><br>
-						
-				<div id="code">
-					<font size="3">
-						<br>
-						$ git clone/pull https://github.com/username/repository.git<br>
-						# to download from a GitHub repository.<br>
-						# Unlike git clone, using git pull also needs<br>
-						# adding a remote (destination) as follows<br>
-						# git remote add repo https://github.com/username/repository.git<br>
-						# do $git remote to see the difference<br><br>
-						$ git add .<br>
-						# or git add folder/file* to specifically<br>
-						# select folders/files to be staged for commit<br>
-						$ git commit -m 'commit message'<br>
-						# instead git commit -a -m 'commit message'<br>
-						# that combines the above two.<br>
-						$ git push (branch)<br><br>
-						$ git status<br>
-						$ git rm folder/file<br>
-						# to remove a folder/file from the github repo.<br>
-						<br>
-					</font>
-				</div>
-			</font>
+				Information about your git repository is available in the .git sub folder.<br><br>
+			</font>		
+			<div id="code">
+				<font size="3">
+					<br>
+					$ git clone/pull https://github.com/username/repository.git<br>
+					# to download from a GitHub repository.<br>
+					# Unlike git clone, using git pull also needs<br>
+					# adding a remote (destination) as follows<br>
+					# git remote add repo https://github.com/username/repository.git<br>
+					# do $git remote to see the difference<br><br>
+					$ git add .<br>
+					# or git add folder/file* to specifically<br>
+					# select folders/files to be staged for commit<br>
+					$ git commit -m 'commit message'<br>
+					# instead git commit -a -m 'commit message'<br>
+					# that combines the above two.<br>
+					$ git push (branch)<br><br>
+					$ git status<br>
+					$ git rm folder/file<br>
+					# to remove a folder/file from the github repo.<br>
+					$ git diff<br>
+					# git diff HEAD
+					# git diff --staged to check the changes on the staged commit<br>
+					$ git log<br>
+					# to show commmits made<br>
+					<br>
+				</font>
+			</div>
 		</div>
 	</div>
 </body>
