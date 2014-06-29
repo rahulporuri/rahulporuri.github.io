@@ -1,0 +1,118 @@
+body{
+	background-image: url("../stardust/stardust.png");
+	background-repeat: repeat;
+}
+
+@media (max-width: 750px){
+
+	aside{
+		float:right;
+		width: 50px;
+		font-family:'Sawasdee',sans-serif;
+		margin-top: 15px;
+		margin-left: 5%;
+	}
+
+	#encompass{
+		position:absolute;
+		background-color:#FFFFFF;
+		right: 0;
+		left: 0;
+		margin: auto;
+		height:1250px;
+		width:800px;
+		border-top: 4px solid-gray;
+		border-radius: 10px;
+	}
+
+	#image{
+		position:absolute;
+		top:60px;
+		left:60px;
+	}
+
+	#links{
+		position: absolute;
+		top:60px;
+		left:450px;
+		font-family:'Sawasdee',sans-serif;
+	}
+
+	#content{
+		position:absolute;
+		top:660px;
+		left:60px;
+		right: 60px;
+		font-family:'Sawasdee',sans-serif;
+	}
+
+}
+
+@media (min-width: 750px){
+
+	aside{
+		float:left;
+		width: 50px;
+		font-family:'Sawasdee',sans-serif;
+		margin-top: 15px;
+		margin-left: 5%;
+	}
+
+	#encompass{
+		position:absolute;
+		background-color:#FFFFFF;
+		right: 0;
+		left: 0;
+		margin: auto;
+		height:700px;
+		width:1200px;
+		border-top: 4px solid-gray;
+		border-radius: 10px;
+	}
+
+	#image{
+		position:absolute;
+		float: left;
+		margin-top:40px;
+		left:300px;
+	}
+
+	#links{
+		position: absolute;
+		top:40px;
+		left:40px;
+		text-align: right;
+		font-family:'Sawasdee',sans-serif;
+	}
+
+	#content{
+		position:absolute;
+		top:40px;
+		left:675px;
+		right: 40px;
+		font-family:'Sawasdee',sans-serif;
+	}
+
+}
+
+/*
+*_right.css file
+
+body{
+	background-color:#FFFFFF;
+}
+
+#content{
+	position:absolute;
+	top:100px;
+	left:300px;
+	width:600px;
+}
+
+#image{
+	position:absolute;
+	top:100px;
+	left:1000px;
+	width:400px;
+}
+*/
