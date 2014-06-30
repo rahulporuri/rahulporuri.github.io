@@ -5,7 +5,7 @@ body{
 
 aside{
 	width:275px;
-	height: 250px;
+	height: 275px;
 	margin-bottom: 10px;
 	float:right;
 	text-align: right;
@@ -19,7 +19,7 @@ aside{
 	left:0;
 	right: 0;
 	margin: auto;
-	height:2700px;
+	height:2800px;
 	width:800px;
 	border-radius: 10px;
 	/*overflow: auto;*/

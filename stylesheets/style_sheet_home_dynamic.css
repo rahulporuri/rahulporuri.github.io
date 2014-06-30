@@ -52,9 +52,9 @@ body{
 
 	aside{
 		float:left;
-		width: 50px;
+		width: 15px;
 		font-family:'Sawasdee',sans-serif;
-		margin-top: 15px;
+		margin-top: 40px;
 		margin-left: 5%;
 	}
 
@@ -71,10 +71,10 @@ body{
 	}
 
 	#image{
-		position:absolute;
+		/*position:absolute;*/
 		float: left;
 		margin-top:40px;
-		left:300px;
+		/*left:300px;*/
 	}
 
 	#links{
@@ -88,7 +88,7 @@ body{
 	#content{
 		position:absolute;
 		top:40px;
-		left:675px;
+		left:375px;
 		right: 40px;
 		font-family:'Sawasdee',sans-serif;
 	}
