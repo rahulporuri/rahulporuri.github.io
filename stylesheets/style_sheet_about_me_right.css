@@ -40,7 +40,10 @@ refer to - http://stackoverflow.com/questions/2779554/css-auto-height-on-contain
 
 #code{
 	position: absolute;
-	font-family: 'Courier new';
+	/*font-family: 'Courier new';*/
+	font-family:'Droid sans';
+	/*Courier is thinner, Courier new is thick*/
+	/*droid sans is pretty good!!!*/
 	background-color:#D3D3D3;
 	width:100%;
 	padding-left: 15px;
