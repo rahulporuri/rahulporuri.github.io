@@ -1,5 +1,7 @@
 body{
-	background-color: #000000;
+	/*background-color: #000033;*/
+	background-image: url("../stardust/stardust.png");
+	background-repeat: repeat;
 }
 
 #encompass{
@@ -8,84 +10,52 @@ body{
 	right: 0;
 	left: 0;
 	margin: auto;
-	height:750px;
+	height:1000px;
 	width:800px;
 	border-top: 4px solid-gray;
 	border-radius: 10px;
 }
 
-#row11{
-	/*position:absolute;*/
-	/*left:30%;*/
-	margin-top:100px;	
-	margin-left: 200px;
+#row1l{
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-right: 20px;
 	float: left;
-	/*text-align: left;*/
-	width:200px;
+	font-family:'Sawasdee',sans-serif;
 }
 
-#row12{
-	/*position:absolute;*/
-	/*left:60%;*/
-	margin-top:100px;
-	/*margin-right: 200px;*/
+#row1r{
+	margin-top: 100px;
+	margin-left: 50px;
+	margin-right: 100px;
+	font-family:'Sawasdee',sans-serif;
+}
+
+#row2l{
+	margin-top: 200px;
+	margin-right: 100px;
+	margin-left: 20px;
 	float: right;
-	text-align: left;
-	width:200px;
+	font-family:'Sawasdee',sans-serif;
 }
 
-#row21{
-	/*position:absolute;*/
-	/*left:30%;*/
-	margin-top:350px;
+#row2r{
+	margin-top: 200px;
+	margin-left: 100px;
+	font-family:'Sawasdee',sans-serif;
+}
+
+#row3l{
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-right: 20px;
 	float: left;
-	text-align: right;
-	width:200px;
+	font-family:'Sawasdee',sans-serif;
 }
 
-#row22{
-	/*position:absolute;*/
-	/*left:60%;*/
-	margin-top:350px;
-	margin-right: 200px;
-	float: right;
-	/*text-align: left;*/
-	width:200px;
+#row3r{
+	margin-top: 100px;
+	margin-left: 50px;
+	margin-right: 100px;
+	font-family:'Sawasdee',sans-serif;
 }
-
-#row31{
-	position:absolute;
-	top:700px;
-	left:30%;
-	width:300px;
-}
-
-#row32{
-	position:absolute;
-	top:700px;
-	left:60%;
-	width:300px;
-}
-
-#row41{
-	position:absolute;
-	top:900px;
-	left:30%;
-	width:300px;
-}
-
-#row42{
-	position:absolute;
-	top:900px;
-	left:60%;
-	width:300px;
-}
-
-/* Needs to be corrected for in this case.
-#time{
-	position:absolute;
-	top:95%;
-	left:200px;
-	width:400px;
-}
-*/ 
