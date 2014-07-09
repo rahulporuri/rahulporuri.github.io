@@ -5,6 +5,7 @@
 <head>
 	<title>Blog</title>
 	<link rel="stylesheet" href="../stylesheets/style_sheet_about_me_right.css">
+	<link href="../prism.css" rel="stylesheet" />
 </head>
 
 <script>
@@ -17,6 +18,8 @@
   ga('send', 'pageview');
 
 </script>
+
+<script src="../prism.js"></script>
 
 <body>
 	<div id="encompass">
@@ -43,33 +46,34 @@
 				<em>NOTE: if the directory ~/.ssh does not exist, then create one. If you haven't used ssh on your system so far, there will not exist one.</em><br><br>
 				Information about your git repository is available in the .git sub folder.<br><br>
 			</font>		
-			<div id="code">
-				<font size="3">
-					<br>
-					$ git clone/pull https://github.com/username/repository.git<br>
-					# to download from a GitHub repository.<br>
-					# Unlike git clone, using git pull also needs<br>
-					# adding a remote (destination) as follows<br>
-					# git remote add repo https://github.com/username/repository.git<br>
-					# do $git remote to see the difference<br><br>
-					$ git add .<br>
-					# or git add folder/file* to specifically<br>
-					# select folders/files to be staged for commit<br>
-					$ git commit -m 'commit message'<br>
-					# instead git commit -a -m 'commit message'<br>
-					# that combines the above two.<br>
-					$ git push (branch)<br><br>
-					$ git status<br>
-					$ git rm folder/file<br>
-					# to remove a folder/file from the github repo.<br>
-					$ git diff<br>
-					# git diff HEAD
-					# git diff --staged to check the changes on the staged commit<br>
-					$ git log<br>
-					# to show commmits made<br>
-					<br>
-				</font>
-			</div>
+			<pre>
+				<code class="language-bash">
+$ git clone/pull https://github.com/username/repository.git
+# to download from a GitHub repository.
+# Unlike git clone, using git pull also needs
+# adding a remote (destination) as follows
+# git remote add repo https://github.com/username/repository.git
+# git remote to see the difference
+
+$ git add .
+# or git add folder/file* to specifically
+# select folders/files to be staged for commit
+$ git commit -m 'commit message'
+# instead git commit -a -m 'commit message'
+# that combines the above two.
+
+$ git push (branch)
+$ git status
+$ git rm folder/file
+# to remove a folder/file from the github repo.
+
+$ git diff
+# git diff HEAD
+# git diff --staged to check the changes on the staged commit
+$ git log
+# to show commmits made
+				</code>
+			</pre>
 		</div>
 	</div>
 </body>
