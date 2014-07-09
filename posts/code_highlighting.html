@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<title>Blog</title>
+	<link rel="stylesheet" href="../stylesheets/style_sheet_about_me_right.css">
+	<link href="../prism.css" rel="stylesheet" />
+</head>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32721845-2', 'rahulporuri.github.io');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="../prism.js"></script>
+
+<body>
+	<div id="encompass">
+		<div id="content">
+			<aside>
+				<font size='6'>
+					<a href="../index.html">Home</a><br>
+					<a href="../about_me.html">About Me</a><br>
+					<a href="../research.html">Research</a><br>
+					<a href="../contact.html">Contact</a><br>
+					<a href="../blog.html">Blog</a><br>
+					<a href="cv.pdf">CV</a><br><br>
+				</font>
+			</aside>
+
+			<font size='5'>
+				Tweaking the bash prompt.<br><br>
+			</font>
+			<font size='4'>
+				In certain cases, the bash prompt, usually of the form username@hostname:workingdir$ , becomes too large for the terminal width. Commands get wrapped around and it doesn't look aesthetically pleasing.<br><br>
+				So, i set about trying to learn how the bash prompt can be modified and if there's a way to dynamically change it depending on the terminal width.<br><br>
+			</font>		
+			<pre>
+				<code class="language-bash">
+$ echo $COLUMNS
+# print the current terminal width
+$ expr length username@hostname:$(pwd)
+# prints the current length of the bash prompt,
+# which would vary depending on the working dir.
+# now, i want to change the prompt when it is half the width
+$ expr `expr length rahulporuri@astronut:$(pwd)` "*" "2"
+# can be used to double the length of the prompt and
+$ if ["var1" -gt "var2"]; then do ... ; fi
+# to compare the two variables - length and width
+# So far, I've only been able to set a static change i.e 
+# if the length of the prompt is over 40 chars in length,
+# then the prompt will not display the working dir!
+
+$ if [ "$(expr length rahulporuri@astronut:$(pwd))" -gt 40 ]; then
+	PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[00m\]\$ '
+else
+	PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+fi
+# PS1 is the bash prompt,
+# where \u is for the username,
+# \h is for the host name and 
+# \w if for the working dir.
+# [\...\] refer to the color codes.
+				</code>
+			</pre>
+		<!--<p style="text-indent:5em;">-->
+		<!--can be used to create tab/indents-->
+		</div>
+	</div>
+</body>
+</html>
