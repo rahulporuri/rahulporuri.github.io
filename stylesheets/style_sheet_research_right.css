@@ -19,10 +19,10 @@ aside{
 	left:0;
 	right: 0;
 	margin: auto;
-	height:2850px;
+	height:1000px;
 	width:800px;
 	border-radius: 10px;
-	/*overflow: auto;*/
+	overflow: auto;
 }
 
 /*overflow:auto to expand parent div to child height
