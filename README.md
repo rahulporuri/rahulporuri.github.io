@@ -19,11 +19,11 @@ features implemented so far -
 * created div code for code blocks. see git routine blog post for example. although problems exist between parent and child div!
 * implemented rounded edges using border-radius
 * added rocket.png file as the head shortcut image. found [here](http://4vector.com/free-vector/rocket-clip-art-116937)
+* manually added time stamps on posts
+* @media css queries can be used to modidfy css depending on screen size - mobile or desktop!
+* height of encompass div temporarily solved using overflow = auto which creates a scroll option inside the div instead of on the page!
 
 to be implemented - 
-* time stamp on blog posts.
-* figure out how to determine the size of the screen using js or using css functions.
-* set the height of the encompass id depending on the length of text inside!
 * how to fill boxes with text to the end using apostaphies instead of full words being skipped to the next sentence - using css regions and css exclusions refer to the tutorial [here](http://www.html5rocks.com/en/tutorials/regions/adobe/)
 * use a terminal themed site which can access files using ls/more/less/cd etc similar to the one found [here](http://try.github.com/)
 
