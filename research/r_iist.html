@@ -35,9 +35,20 @@
 					Colors of 146,659 Quasars from the SDSS DR9.<br><br>
 				</font>
 				<font size = "4">
-					A major part of the ARIES training school is data analysis and as part of a team of 5, I was studying the polarization of light from a star forming region Stock 8 in the constellation Auriga. The data was collected using the ARIES Imaging Polarimeter instrument (AImPol) at the ARIES 1.04m telescope.<br><br>
+					Under the guidance of Prof. Anand Narayanan at the Indian Institute for Space science and Technology (IIST), Trivandrum, India, I reproduced and extended the results of Richards et al. 2001 on the Colors of Quasars. Colors of Quasars by Richards et al. 2001 is a study of the color-color and color-redshift relationship of 2625 quasars from the SDSS DR3.<br><br>
+<aside>
+<img src="../images/colors-redshift_plot.png", height = "250">
+</aside>
 
-					We measured the stokes parameters of multiple stars and estimated the overall polarization of light. We estimated the density of dust in the star forming region using the polarization and using standard stars. We also differentiated between field stars and foreground stars by studying the amount of polarization.<br>	
+					Quasars, short for Quasi-stellar radio sources, are a type of active galaxies which were of interest to radio astronomers in the 20th century thanks to their large flux and variability in the radio spectrum. Follow-up observations in the IR and Visible spectrum shoted that, for the most part, these objects were much more luminous in the UV & Visible spectrum than they are in the radio. Hence the objects were catalogued simply as Quasi stellar objects or QSOs. Emissions from Quasars are from the nuclei of the galaxy i.e the Active Galactic Nuclei (AGN) which are super massive blackholes at the center of the galaxy. A characteristic feature of Quasars are emission lines superimposed on a power law spectrum.<br><br>
+
+<aside>
+<img src="../../quasar_colors/redshift_hist.png", height = "250">
+</aside>
+
+					Colors of Quasars by Richards et al. 2001 is a study of the color-color and color-redshift relationships of 2625 quasars, mostly from the SDSS DR3 catalogue and my work was to reproduce these results. As only part of the original data set was available on the internet, instead of reproducing the results, i worked on extending them using quasars from the SDSS DR9. Using sql query, i retrieved photometric data on 146,659 quasars and constructed the color-color and color-redshift relations. Variation in the color can be explained using the various emission and absorption lines that are characteristic of quasars. Refer to sec. 4.3 of Richards et al. 2001 for a detailed explanation. Looking at one of the interesting features, it can be seen that there's a large scatter in u-g color at high redshifts. As mentioned in sec 4.3, the rapid rise is due to the Lyman alpha forest and lyman-limit systems entering the u band causing there to be little to no flux!<br><br>
+					
+					One can refer further to Vanden Berk et al. 2001 on a composite quasar spectrum from the SDSS and Fan 1999 on the simulation of stellar objects in SDSS color space.<br><br>
 				</font>
 			</div>
 		</div>
