@@ -1,8 +1,8 @@
 body{
-	background-image: url("grey.png");
+	background-image: url("../stardust/stardust.png");
 	background-repeat: repeat;
 }
-
+/*
 #encompass{
 	position:absolute;
 	background-color:#FFFFFF;
@@ -14,23 +14,36 @@ body{
 	background-repeat: repeat;
 	border-radius: 10px;
 }
+*/
+#encompass{
+	position:absolute;
+	background-color:#FFFFFF;
+	right: 0;
+	left: 0;
+	margin: auto;
+	height:600px;
+	width:1200px;
+	border-top: 4px solid-gray;
+	border-radius: 10px;
+}
 
 #links{
 	position:absolute;
 	text-align: right;
-	top:15%;
+	top:5%;
 	left:2%;
 	width:20%;
 	padding-top: 10px;
 	padding-right: 10px;
-	border-left: 2px solid gray;
-	border-top: 2px solid gray;
+	/*border-left: 2px solid gray;
+	border-top: 2px solid gray;*/
+	font-family:'Sawasdee',sans-serif;
 }
 
 #image{
 	position:absolute;
-	top:15%;
-	left:25%;
+	top:5%;
+	left:23%;
 	width:25%;
 	padding-top: 10px;
 }
@@ -38,13 +51,14 @@ body{
 #content{
 	position:absolute;
 	text-align: left;
-	top:15%;
+	top:2%;
 	left:52%;
 	width:45%;
 	padding-left: 10px;
 	padding-top: 10px;
-	border-right: 2px solid gray;
-	border-bottom: 2px solid gray;
+	/*border-right: 2px solid gray;
+	border-bottom: 2px solid gray;*/
+	font-family:'Sawasdee',sans-serif;
 }
 
 #time{

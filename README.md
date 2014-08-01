@@ -26,7 +26,11 @@ features implemented so far -
 to be implemented - 
 * how to fill boxes with text to the end using apostaphies instead of full words being skipped to the next sentence - using css regions and css exclusions refer to the tutorial [here](http://www.html5rocks.com/en/tutorials/regions/adobe/)
 * use a terminal themed site which can access files using ls/more/less/cd etc similar to the one found [here](http://try.github.com/)
+* add a projects page where i mention the side projects i work on or a page similar to what sanjith has where he talks about his side projects!
 
+learning excersises - 
+* animated tiles in javascript, for the shaastra landing page and for my checkered page. ex1 - completely tiled page where the tiles rotate on mouseover. ex2 - tiles in the checkered page which act rotate on mouse over and act as links to relevant pages.
+* bootstrap!
 
 some interesting fonts to use are - 
 * verdana is too fat. arial is too thick
