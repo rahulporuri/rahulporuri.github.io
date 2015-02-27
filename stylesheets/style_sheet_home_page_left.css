@@ -7,8 +7,9 @@ aside{
 	float:right;
 	width: 50px;
 	font-family:'Sawasdee',sans-serif;
-	margin-top: 15px;
+	margin-top: 250px;
 	margin-left: 5%;
+	margin-right:5%;
 }
 
 #encompass{
@@ -17,8 +18,8 @@ aside{
 	right: 0;
 	left: 0;
 	margin: auto;
-	height:1250px;
-	width:800px;
+	height:600px;
+	width:1000px;
 	border-top: 4px solid-gray;
 	border-radius: 10px;
 }
@@ -32,15 +33,15 @@ aside{
 #links{
 	position: absolute;
 	top:60px;
-	left:450px;
+	left:750px;
 	font-family:'Sawasdee',sans-serif;
 }
 
 #content{
 	position:absolute;
-	top:660px;
+	top:60px;
 	left:60px;
-	right: 60px;
+	right: 290px;
 	font-family:'Sawasdee',sans-serif;
 }
 
