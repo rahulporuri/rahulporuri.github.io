@@ -18,8 +18,8 @@ aside{
 	right: 0;
 	left: 0;
 	margin: auto;
-	height:650px;
-	width:970px;
+	height:500px;
+	width:1000px;
 	border-top: 4px solid-gray;
 	border-radius: 10px;
 }
@@ -33,15 +33,15 @@ aside{
 #links{
 	position: absolute;
 	top:60px;
-	left:730px;
+	left:710px;
 	font-family:'Sawasdee',sans-serif;
 }
 
 #content{
 	position:absolute;
 	top:60px;
-	left:60px;
-	right: 290px;
+	left:40px;
+	right: 320px;
 	font-family:'Sawasdee',sans-serif;
 }
 
