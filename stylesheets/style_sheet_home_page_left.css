@@ -3,6 +3,15 @@ body{
 	background-repeat: repeat;
 }
 
+#navmenu li{
+        display: inline;
+}
+
+#navmenu ul li a{
+        font-family: 'Trebuchet', sans-serif;
+        padding: 100px 50px 5px 0px;
+}
+
 aside{
 	float:right;
 	width: 50px;
@@ -39,9 +48,9 @@ aside{
 
 #content{
 	position:absolute;
-	top:60px;
+	top:40px;
 	left:40px;
-	right: 320px;
+	right:40px;
 	font-family:'Sawasdee',sans-serif;
 }
 

@@ -3,6 +3,15 @@ body{
 	background-repeat: repeat;
 }
 
+#navmenu li{
+        display: inline;
+}
+
+#navmenu ul li a{
+        font-family: 'Trebuchet', sans-serif;
+        padding: 100px 50px 5px 0px;
+}
+
 aside{
 	width:275px;
 	height: 275px;
