@@ -1,9 +1,5 @@
-body{
-	background-image: url("../stardust/stardust.png");
-	background-repeat: repeat;
-}
-
 #navmenu li{
+        padding: 100px 0px 0px 0px;
         display: inline;
 }
 
@@ -12,11 +8,15 @@ body{
         padding: 100px 50px 5px 0px;
 }
 
+body{
+	background-color:#808080;
+}
+
 aside{
 	float:right;
 	width: 50px;
 	font-family:'Sawasdee',sans-serif;
-	margin-top: 375px;
+	margin-top: 25px;
 	margin-left: 5%;
 	margin-right:5%;
 }
@@ -26,11 +26,9 @@ aside{
 	background-color:#FFFFFF;
 	right: 0;
 	left: 0;
+        top: 150px;
 	margin: auto;
-	height:500px;
 	width:1000px;
-	border-top: 4px solid-gray;
-	border-radius: 10px;
 }
 
 #image{
@@ -50,7 +48,7 @@ aside{
 	position:absolute;
 	top:40px;
 	left:40px;
-	right:40px;
+	right:125px;
 	font-family:'Sawasdee',sans-serif;
 }
 

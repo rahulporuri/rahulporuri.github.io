@@ -1,9 +1,3 @@
-body{
-	/*background-color: #000033;*/
-	background-image: url("../stardust/stardust.png");
-	background-repeat: repeat;
-}
-
 #encompass{
 	position:absolute;
 	background-color:#FFFFFF;
