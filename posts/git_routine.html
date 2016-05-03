@@ -3,8 +3,32 @@
 <html>
 
 <head>
-	<title>Blog</title>
-	<link rel="stylesheet" href="../stylesheets/style_sheet_about_me_right.css">
+                <meta charset="utf-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <title>Poruri Sai Rahul</title>
+		<link rel="shortcut icon" href="images/rocket.png">
+                <style type="text/css">
+                        body{
+                                margin:40px auto;
+                                max-width:650px;
+                                line-height:1.6;
+                                font-size:18px;
+                                color:#444;
+                                padding:0 10px
+                        }
+                        h1,h2,h3{
+                                line-height:1.2
+                        }
+                        #navmenu ul{
+                                text-align:center;
+                        }
+                        #navmenu li{
+                                display:inline;
+                        }
+                        #navmenu ul li a{
+                            padding: 0px 20px 0px 20px;
+                        }
+                </style>
 	<link href="../prism.css" rel="stylesheet" />
 </head>
 
@@ -26,30 +50,21 @@
 <script src="../prism.js"></script>
 
 <body>
-	<div id="encompass">
-		<div id="content">
-			<aside>
-				<font size='6'>
-					<a href="../index.html">Home</a><br>
-					<a href="../about_me.html">About Me</a><br>
-					<a href="../research.html">Research</a><br>
-					<a href="../contact.html">Contact</a><br>
-					<a href="../blog.html">Blog</a><br>
-					<a href="../cv.pdf">CV</a><br><br>
-				</font>
-			</aside>
+                <div id="navmenu">
+                    <ul>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="../projects.html">Projects</a></li>
+                        <li><a href="../blog.html">Blog</a></li>
+                        <li><a href="https://www.github.com/rahulporuri">Code</a></li>
+                    </ul>
+                </div>
+                <p>		Git routine.</p>
+                <p>				I did not know the git routine on linux so i chose the dark side. <a href="https://windows.github.com">GitHub for Windows</a> was of enormous help to get me started with GitHub and i was happily clicking away to commit and push for over a month. But the day had finally come for me to switch back to linux and learn how the git (command line) routine.</p>
 
-			<font size='5'>
-				Git routine.<br><br>
-			</font>
-			<font size='4'>
-				I did not know the git routine on linux so i chose the dark side. <a href="https://windows.github.com">GitHub for Windows</a> was of enormous help to get me started with GitHub and i was happily clicking away to commit and push for over a month. But the day had finally come for me to switch back to linux and learn how the git (command line) routine.<br><br>
+                <p>				One starts off with generating an (unique) SSH key on your computer and adding this to your GitHub profile. Refer to this <a href="https://help.github.com/articles/generating-ssh-keys">github help article</a> to know how to generate said SSH keys and adding them.</p>
 
-				One starts off with generating an (unique) SSH key on your computer and adding this to your GitHub profile. Refer to this <a href="https://help.github.com/articles/generating-ssh-keys">github help article</a> to know how to generate said SSH keys and adding them.<br><br>
-
-				<em>NOTE: if the directory ~/.ssh does not exist, then create one. If you haven't used ssh on your system so far, there will not exist one.</em><br><br>
-				Information about your git repository is available in the .git sub folder.<br><br>
-			</font>		
+                <p>		<em>NOTE: if the directory ~/.ssh does not exist, then create one. If you haven't used ssh on your system so far, there will not exist one.</em></p>
+                <p>				Information about your git repository is available in the .git sub folder.</p>
 			<pre>
 				<code class="language-bash">
 $ git clone/pull https://github.com/username/repository.git
@@ -78,8 +93,5 @@ $ git log
 # to show commmits made
 				</code>
 			</pre>
-			<br>
-		</div>
-	</div>
 </body>
 </html>

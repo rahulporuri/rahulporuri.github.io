@@ -3,8 +3,32 @@
 <html>
 
 <head>
-	<title>Blog</title>
-	<link rel="stylesheet" href="../stylesheets/style_sheet_about_me_right.css">
+                <meta charset="utf-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <title>Poruri Sai Rahul</title>
+		<link rel="shortcut icon" href="images/rocket.png">
+                <style type="text/css">
+                        body{
+                                margin:40px auto;
+                                max-width:650px;
+                                line-height:1.6;
+                                font-size:18px;
+                                color:#444;
+                                padding:0 10px
+                        }
+                        h1,h2,h3{
+                                line-height:1.2
+                        }
+                        #navmenu ul{
+                                text-align:center;
+                        }
+                        #navmenu li{
+                                display:inline;
+                        }
+                        #navmenu ul li a{
+                            padding: 0px 20px 0px 20px;
+                        }
+                </style>
 	<link href="../prism.css" rel="stylesheet" />
 </head>
 
@@ -26,26 +50,17 @@
 <script src="../prism.js"></script>
 
 <body>
-	<div id="encompass">
-		<div id="content">
-			<aside>
-				<font size='6'>
-					<a href="../index.html">Home</a><br>
-					<a href="../about_me.html">About Me</a><br>
-					<a href="../research.html">Research</a><br>
-					<a href="../contact.html">Contact</a><br>
-					<a href="../blog.html">Blog</a><br>
-					<a href="../cv.pdf">CV</a><br><br>
-				</font>
-			</aside>
-
-			<font size='5'>
-				Tweaking the bash prompt.<br><br>
-			</font>
-			<font size='4'>
-				In certain cases, the bash prompt, usually of the form username@hostname:workingdir$ , becomes too large for the terminal width. Commands get wrapped around and it doesn't look aesthetically pleasing.<br><br>
-				So, i set about trying to learn how the bash prompt can be modified and if there's a way to dynamically change it depending on the terminal width.<br><br>
-			</font>		
+                <div id="navmenu">
+                    <ul>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="../projects.html">Projects</a></li>
+                        <li><a href="../blog.html">Blog</a></li>
+                        <li><a href="https://www.github.com/rahulporuri">Code</a></li>
+                    </ul>
+                </div>
+                <p>		Tweaking the bash prompt.</p>
+                <p>				In certain cases, the bash prompt, usually of the form username@hostname:workingdir$ , becomes too large for the terminal width. Commands get wrapped around and it doesn't look aesthetically pleasing.</p>
+                <p>				So, i set about trying to learn how the bash prompt can be modified and if there's a way to dynamically change it depending on the terminal width.</p>
 			<pre>
 				<code class="language-bash">
 $ echo $COLUMNS
@@ -74,8 +89,5 @@ fi
 # [\...\] refer to the color codes.
 				</code>
 			</pre>
-			<br>
-		</div>
-	</div>
 </body>
 </html>
