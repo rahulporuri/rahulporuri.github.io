@@ -1,11 +1,15 @@
-#navmenu li{
+#navmenu ul li{
         padding: 100px 0px 0px 0px;
         display: inline;
 }
 
+#navmenu ul{
+        text-align: center;
+}
+
 #navmenu ul li a{
         font-family: 'Trebuchet', sans-serif;
-        padding: 100px 50px 5px 0px;
+        padding: 10px 50px 5px 0px;
 }
 
 body{
@@ -46,6 +50,7 @@ aside{
 
 #content{
 	position:absolute;
+	background-color:#FFFFFF;
 	top:40px;
 	left:40px;
 	right:125px;
