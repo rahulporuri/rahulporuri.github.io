@@ -29,7 +29,6 @@
                             padding: 0px 20px 0px 20px;
                         }
                 </style>
-	<link href="../prism.css" rel="stylesheet" />
 </head>
 
 <script>
@@ -41,13 +40,11 @@
   		a.async=1;
   		a.src=g;
   		m.parentNode.insertBefore(a,m)
-  })
+  	})
   (window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-32721845-2', 'rahulporuri.github.io');
   ga('send', 'pageview');
 </script>
-
-<script src="../prism.js"></script>
 
 <body>
                 <div id="navmenu">
@@ -58,36 +55,6 @@
                         <li><a href="https://www.github.com/rahulporuri">Code</a></li>
                     </ul>
                 </div>
-                <p>		Tweaking the bash prompt.</p>
-                <p>				In certain cases, the bash prompt, usually of the form username@hostname:workingdir$ , becomes too large for the terminal width. Commands get wrapped around and it doesn't look aesthetically pleasing.</p>
-                <p>				So, i set about trying to learn how the bash prompt can be modified and if there's a way to dynamically change it depending on the terminal width.</p>
-			<pre>
-				<code class="language-bash">
-$ echo $COLUMNS
-# print the current terminal width
-$ expr length username@hostname:$(pwd)
-# prints the current length of the bash prompt,
-# which would vary depending on the working dir.
-# now, i want to change the prompt when it is half the width
-$ expr `expr length rahulporuri@astronut:$(pwd)` "*" "2"
-# can be used to double the length of the prompt and
-$ if ["var1" -gt "var2"]; then do ... ; fi
-# to compare the two variables - length and width
-# So far, I've only been able to set a static change i.e 
-# if the length of the prompt is over 40 chars in length,
-# then the prompt will not display the working dir!
-
-$ if [ "$(expr length rahulporuri@astronut:$(pwd))" -gt 40 ]; then
-	PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[00m\]\$ '
-else
-	PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
-fi
-# PS1 is the bash prompt,
-# where \u is for the username,
-# \h is for the host name and 
-# \w if for the working dir.
-# [\...\] refer to the color codes.
-				</code>
-                        </pre>
+                <iframe src="summation_of_higher_harmonics.html" width="650px" height="1000px"></iframe>
 </body>
 </html>
