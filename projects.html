@@ -9,7 +9,6 @@
                 <style type="text/css">
                         body{
                                 margin:40px auto;
-                                max-width:650px;
                                 line-height:1.6;
                                 font-size:18px;
                                 color:#444;
@@ -18,14 +17,33 @@
                         h1,h2,h3{
                                 line-height:1.2
                         }
-                        #navmenu ul{
-                                text-align:center;
+                        .main-container{
+                                max-width: 960px;
+                                margin: auto;
                         }
-                        #navmenu li{
-                                display:inline;
+                        .site-menu,
+                        .main-content{
+                                float: left;
                         }
-                        #navmenu ul li a{
-                                padding: 0px 20px 0px 20px;
+                        .site-menu{
+                            width: 20%;
+                        }
+                        .main-content{
+                            width: 60%
+                        }
+                        nav ul{
+                                list-style: none;
+                                padding: 0;
+                        }
+                        nav li{
+                                padding: 5px;
+                        }
+                        nav ul li a{
+                            padding: 0px 20px 0px 20px;
+                            text-decoration: none;
+                        }
+                        .site-menu{
+                            width: 20%;
                         }
                         aside{
                                 float:right;
@@ -45,16 +63,17 @@
 
 </script>
 
-	<body>
-                <div id="navmenu">
+<body>
+    <div class="main-container">
+                <nav class="site-menu">
                     <ul>
                         <li><a href="index.html">Home</a></li>
                         <li><a href="projects.html">Projects</a></li>
                         <li><a href="blog.html">Blog</a></li>
                         <li><a href="https://www.github.com/rahulporuri">Code</a></li>
                     </ul>
-                </div>
-                
+                </nav>
+                <div class="main-content">
                 <p><b>Tensor perturbations during Inflation</b>:</p>
 		<aside>
 			<img src = "images/power_spectrum_power_law.png", height ="250">
@@ -175,5 +194,7 @@
                 <p>Over the course of 10 days, we were introduced to various theoretical aspects of Astronomy, ranging from 
                 Star formation & Evolution, Galactic & extragalactic astronomy and techniques of observational astronomy 
                 such as astrometry, photometry, spectroscopy, polarimetry and interferometry.</p>
+                </div>
+            </div>
         </body>
 </html>

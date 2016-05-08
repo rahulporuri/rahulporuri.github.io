@@ -8,7 +8,6 @@
                 <style type="text/css">
                         body{
                                 margin:40px auto;
-                                max-width:650px;
                                 line-height:1.6;
                                 font-size:18px;
                                 color:#444;
@@ -17,26 +16,47 @@
                         h1,h2,h3{
                                 line-height:1.2
                         }
-                        #navmenu ul{
-                                text-align:center;
+                        .main-container{
+                                max-width: 960px;
+                                margin: auto;
                         }
-                        #navmenu li{
-                                display:inline;
+                        .site-menu,
+                        .main-content{
+                                float: left;
                         }
-                        #navmenu ul li a{
+                        .site-menu{
+                            width: 20%;
+                        }
+                        .main-content{
+                            width: 60%
+                        }
+                        nav ul{
+                                list-style: none;
+                                padding: 0;
+                        }
+                        nav li{
+                                padding: 5px;
+                        }
+                        nav ul li a{
                             padding: 0px 20px 0px 20px;
+                            text-decoration: none;
+                        }
+                        .site-menu{
+                            width: 20%;
                         }
                 </style>
         </head>
         <body>
-                <div id="navmenu">
+            <div class="main-container">
+                <nav class="site-menu">
                     <ul>
                         <li><a href="index.html">Home</a></li>
                         <li><a href="projects.html">Projects</a></li>
                         <li><a href="blog.html">Blog</a></li>
                         <li><a href="https://www.github.com/rahulporuri">Code</a></li>
                     </ul>
-                </div>
+                </nav>
+                <div class="main-content">
                 <p> I recently started as a fulltime Software Developer at 
                 <a href="https://www.enthought.com">Enthougt Inc.</a> after 
                 working as an intern for two months. I'm currently living 
@@ -67,5 +87,7 @@
                 it's because I lifted the layout straight out of 
                 <a href="http://bettermotherfuckingwebsite.com/">this website</a></p>
                 <p>Last updated : 4 May, 2016.</p>
+                </div>
+            </div>
         </body>
 </html>
