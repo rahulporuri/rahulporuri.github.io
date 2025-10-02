@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - talks.qmd
     tools:
       - icon: envelope-at
         href: mailto:rahul@fossunited.org
@@ -52,3 +53,4 @@ format:
       - cosmo
       - brand
     css: styles.css
+    toc: true

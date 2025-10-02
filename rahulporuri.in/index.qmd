@@ -18,3 +18,6 @@ checkout out our [discourse forum](https://forum.fossunited.org), participate in
 [telegram group](https://t.me/fossunited), or drop by one of our
 [events](https://fossunited.org/events/timeline).
 
+I currently (Oct, 2025) live in Hyderabad, Telangana, India and I participate in a few communities
+- [FOSS United Hyderabad](https://fossunited.org/c/hyderabad), [FOSS x Policy reading group](https://fossunited.org/c/fossxpolicy),
+and [SciPy India](https://scipy-india.github.io/).

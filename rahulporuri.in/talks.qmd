@@ -1,0 +1,132 @@
+# Talks
+
+I strongly believe that if I can't explain a concept to a layperson, I haven't really understood
+the concept. I've been engaged in public speaking since 2009, when I was part of
+the Astronomy Club at my almamater. For more than 15 years, I've tried to explain concepts in
+Astronomy, Astrophysics, Cosmology, Physics, Python, Scientific Computing, Software development and
+Software Architecture, Free & Open Source Software, Digital Commons, Public Policy/Tech Policy,
+and more. What follows is a non-exhaustive list, in reverse chronological order.
+
+## 2025
+
+* [September] Conducted a workshop on the Frappe Framework at
+  [PyCon India 2025](https://web.archive.org/web/20251002055657/https://in.pycon.org/2025/program/schedule/)
+* [August] Introduced the Free & Open Source Software ecosystem to students and faculty at
+  [T.S.Negi Government College, Reckong Peo, Himachal Pradesh](https://tsnegigcreckongpeo.ac.in/)
+* [August] Participated in a panel discussion on "Openness & AI" as part of a series of events on
+  ["Openness and Access for All"](https://web.archive.org/web/20251002083813/https://openuk.uk/indianaisummit/ai-openness-and-access-for-all-hyderabad/)
+* [August] Talked about FOSS & Digital Commons on the [All Things Policy podcast](https://www.youtube.com/watch?v=RZ52KLRkRZw)
+  by the Takshashila Institution
+* [August] [Internal AMA](https://web.archive.org/web/20251002075313/https://www.linkedin.com/feed/update/urn:li:activity:7360905447198920704)
+  with the Product, Engineering, Design, and Data Science teams at Wadhwani AI about anything
+  Free & Open Source Software
+* [July] Moderated a [panel discussion on FOSS & the Education Sector](https://www.youtube.com/live/JvOYVxG3QpQ?si=7OlQpJ9E8z92PBLm)
+  at the Roundtable on FOSS in India event
+* [July] Participated in a panel discussion on the [Strategic importance of FOSS for India](https://www.youtube.com/live/qWKQC_LONUk?si=oH4tdARg4V2ECDIj)
+  at Roundtable on FOSS in India event
+* [July] Participated in a panel discussion on ["Ensuring Open-Source and Community-driven DPI"](https://www.youtube.com/live/McSw4VxCunk?si=u67wWPgd6eiOOAlY)
+  as part of the [DPI in Conversation](https://sflc.in/sflc-in-hosted-a-week-long-event-dpi-in-conversation/) series of events organized by SFLC.in
+* [July] Participated in a panel discussion on [Downstreaming Responsible AI in India](https://web.archive.org/web/20251002084429/https://www.linkedin.com/feed/update/urn:li:activity:7349346840024150016/)
+  by the [Aapti Institute](https://aapti.in/)
+* [June] Talked about "Open Source & AI" as part of a series of [Faculty Development Program sessions](https://web.archive.org/web/20251002075623/https://www.linkedin.com/posts/department-of-ai-and-machine-learning-sit-pune-a536bb25a_fdp2025-ai-machinelearning-activity-7345752355474178050-mVXo?rcm=ACoAAB8YHRAB9Patil0OJ7nyxUjnMGSLA4Fd1gM)
+  at the AI & ML department, [Symbiosis Institute of Technology Pune]()
+* [June] Participated in a panel discussion on ["Open Source trends & challenges for the community in India"](https://www.youtube.com/live/NnbaLSf6qNE?si=M0nqwpq3e9Ad0jtK),
+  organized as part of a series of events during [Open Source Week by SFLC.in](https://form.sflc.in/open-source-week-2025/)
+* [March] Invited to [FOSSMeet 2025](https://web.archive.org/web/20250410033103mp_/https://www.fossmeet.net/), where I talked about FOSS Policy 101
+* [March] Talked about ["FOSS & Tech Policy in India"](https://www.youtube.com/watch?v=B49J5rgOm9k) at [devconf.in 2025](https://web.archive.org/web/20250221074034/https://www.devconf.info/in/)
+* [February] Participated in a panel discussion on "The Power of Open Source and Collaborative Technology for Social Change"
+  as part of [Dasra Philanthropy Week 2025](https://web.archive.org/web/20251002074622/https://dasraphilanthropyweek.org/25th-february/)
+* [January] Moderated a panel discussion on Free & Open Source Software for the not-for-profit ecosystem
+  at the [OASIS Spark event](https://web.archive.org/web/20251002074131/https://www.oasishq.org/events)
+
+## 2024
+
+* [December] Participated in the "Sustaining DPGs: Open-source, community-led development & maintenance"
+  panel discussion at [DPG Dialogues 2024](https://web.archive.org/web/20251002064305/https://codeforgovtech.in/dpg-dialogues/)
+* [October] Talked to [Kalvium students](https://www.linkedin.com/feed/update/urn:li:activity:7251978925608722433/)
+  about FOSS in Engineering Education, as part of their Hacktober series of talks
+* [October] Talked about [FOSS & Progress](https://web.archive.org/web/20241104125228/https://www.linkedin.com/posts/cplfellows_opensource-foss-citizensforpublicleadership-activity-7255985563978117120-bs6P)
+  to the Fellows at [Citizens for Public Leadership](https://cplindia.org/)
+* [August] Talked about the future of Free & Open Source Software in Emerging technologies
+  as part of the [MadScientist Talks](https://luma.com/8equnma6)
+* Invited to talk about FOSS in Engineering Education at MEC.Conf, MEC Kochi
+* [July] Talked about FOSS and the need for interdisciplinary education on the [Cogaan student podcast](https://youtu.be/noMPtyNr1lE?si=laRWynAVTTOP5oVj)
+  at GITAM, Hyderabad
+* [June] Discussed Tech Policy & FOSS on the [Policy Jam podcast](https://youtu.be/w0rBAUFxoZw?si=SWkPYthIP2bHH0eH)
+* [Apr] Talked about [Software Patents](https://www.youtube.com/watch?v=6Xfj6NyKSgE) at [ChennaiFOSS 2024](https://indiafoss.net/Chennai/2024)
+  + [PDF slides](https://github.com/rahulporuri/talks/blob/4cf9f114648747c984ab5aa1c5e890c1cd240ac5/software_patents_chennaifoss_2024.pdf)
+
+## 2023
+
+* Invited talk and panel discussion on "Opensource and Innovation ecosystem" at the
+  [Cloud India Conclave](https://web.archive.org/web/20231206015443/https://ccgrid2023.iisc.ac.in/cloud-india-conclave/)
+* Lightning talk about the rumoured Digital India Act at a FOSS United Bengaluru meetup
+* Panel discussion on the "State of FOSS" at [February FOSS United Bengaluru meetup](https://forum.fossunited.org/t/bengaluru-foss-february-2023-meetup/1740)
+* Talked about the Digital Personal Data Protection Bill at [MumbaiFOSS 2023](https://indiafoss.net/Mumbai/2023)
+  + Similar material was presented at the [January FOSS United Bengaluru meetup](https://forum.fossunited.org/t/bengaluru-foss-january-2023-meetup/1688)
+  + [PDF slides](https://github.com/rahulporuri/talks/blob/ef75854905ec46eb78ddde8876b0712e2b5643a9/annotated_dpdpb.pdf)
+
+## 2017
+
+* Discussed virtual and standalone environments in Python at a [Pune Python User Group event](https://web.archive.org/web/20251002070200/https://www.meetup.com/PythonPune/events/239079298/)
+  + [PDF slides](https://github.com/rahulporuri/talks/blob/ef75854905ec46eb78ddde8876b0712e2b5643a9/virtualenvs_runtimes.pdf)
+* Introduced Cython at a [Pune Python User Group event](https://web.archive.org/web/20251002065818/https://www.meetup.com/PythonPune/events/237391358/)
+  + [PDF slides](https://github.com/rahulporuri/talks/blob/ef75854905ec46eb78ddde8876b0712e2b5643a9/cython.pdf)
+* Workshop on Advanced Python at the Department of Physics, IIT Madras
+  + [PDF slides](https://github.com/rahulporuri/talks/blob/ef75854905ec46eb78ddde8876b0712e2b5643a9/advanced_python.pdf)
+* Workshop on "Good enough practices in Scientific Computing" at the Department of Physics, IIT Madras
+  + [PDF slides](https://github.com/rahulporuri/talks/blob/ef75854905ec46eb78ddde8876b0712e2b5643a9/software_carpentry.pdf)
+* Workshop on Git & GitHub at the Department of Physics, IIT Madras
+  + [PDF slides](https://github.com/rahulporuri/talks/blob/ef75854905ec46eb78ddde8876b0712e2b5643a9/git_and_github.pdf)
+
+## 2016
+
+* Workshop on Automated testing in Python at [SciPy India conference in 2016](https://web.archive.org/web/20170109162002/http://scipy.in/2016#expand)
+  + Content was previously presented at the [Pune Python User Group event](https://web.archive.org/web/20251002063855/https://www.meetup.com/pythonpune/events/235899602/)
+  + [PDF slides](https://github.com/rahulporuri/talks/blob/ef75854905ec46eb78ddde8876b0712e2b5643a9/testing.pdf)
+* Workshop on Git & GitHub at [SciPy India conference in 2016](https://web.archive.org/web/20170109162002/http://scipy.in/2016#expand)
+  + [PDF slides](https://github.com/rahulporuri/talks/blob/ef75854905ec46eb78ddde8876b0712e2b5643a9/git_and_github.pdf)
+
+## Praise for my talks
+
+> There was a talk on patents which initally sounded odd thing in a FOSS conference but it was very
+> well put out sometimes you need to make patents to keep something as opensource and it clearly
+> reflected on the need to avoid patents on software considering how broad a patent can be. It was
+> a great session.
+> 
+> [Gauthamraj Elango](https://www.linkedin.com/posts/gauthamraj-elango-93701ab1_chennaifoss2-chennaifoss2-chennaifoss2-ugcPost-7184640283228221441-IOoJ)
+
+> Engaging with Sai Rahul Poruri provided a fascinating dive into software patenting and the
+> pivotal role of policymakers and communities. Our chat with Eshanth G was definitely a days
+> highlight!
+> 
+> [Surendar Vinayagamoorthy](https://www.linkedin.com/posts/radnerus_chennaifoss-activity-7182701881029242880-AJ0g)
+
+> "Software Patents" by Sai Rahul Poruri delved into the intricacies of patents, discussing their
+> significance, limitations, and their potential negative impact on innovation.
+> 
+> [Kirti Vardhan](https://www.linkedin.com/posts/kirti-vardhan-102a08251_foss-fosschennai-chennaifosa2-activity-7183086308964155392-zBQ6)
+
+> Sai Rahul Poruri talk on software patents is unlocked new area that i really don't know about.
+> How dangerous software patents can be ? and what are all the bad things happend due to software
+> patents in US? So we need keep eye on this and spread about software patents to more people.
+> 
+> [Thanga Ayyanar](https://www.linkedin.com/posts/thangaayyanar_%E0%AE%AF%E0%AE%9F%E0%AE%AF%E0%AE%AA-%E0%AE%A8%E0%AE%95%E0%AE%B4%E0%AE%AA%E0%AE%9F%E0%AE%AE-ledger-cli-kanchilug-activity-7183849966488969217-znNw)
+
+> Among the insightful discussions on open-source software and hardware, the highlight was a
+> captivating speech by Sai Rahul Poruri who is the Head of Software at SoftCircuits Labs shedding
+> light on software patents and related cases. His expertise not only clarified many doubts but
+> also inspired a deeper understanding of the open-source ethos.
+> 
+> [Venkatasubramanian S](https://www.linkedin.com/posts/venkatasubramanian-s_opensource-fosscommunity-softwarepatents-activity-7184210325536190464-xYPT)
+
+> I had the pleasure of attending an event at Indian Institute of Technology, Bombay hosted by
+> FOSS United, where Sai Rahul Poruri delivered an insightful talk on the draft Digital Personal
+> Data Protection Bill 2022. Rahul discussed key aspects of the bill, including the definition of
+> 'Personal Data', the role of a 'Data Fiduciary', the rights of a 'Data Principal', and proposed
+> penalties for non-compliance. He also facilitated engaging discussions with the audience on
+> topics such as personal identifiable data and notices and consent. It was a great opportunity to
+> learn from a knowledgeable speaker and connect with like-minded individuals in the tech
+> community.
+> 
+> [Shree Mundade](https://www.linkedin.com/posts/shree-mundade-87b6771a5_data-digital-compliance-activity-7040921500652089344-ob6W)
