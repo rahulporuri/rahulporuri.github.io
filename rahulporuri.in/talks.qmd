@@ -15,6 +15,11 @@ and more. What follows is a non-exhaustive list, in reverse chronological order.
   [T.S.Negi Government College, Reckong Peo, Himachal Pradesh](https://tsnegigcreckongpeo.ac.in/)
 * [**August**] Participated in a panel discussion on "Openness & AI" as part of a series of events on
   ["Openness and Access for All"](https://web.archive.org/web/20251002083813/https://openuk.uk/indianaisummit/ai-openness-and-access-for-all-hyderabad/)
+
+::: {.column-margin}
+{{< video https://youtu.be/RZ52KLRkRZw?si=YDDm8QB4ZxdKra_L >}}
+:::
+
 * [**August**] Talked about FOSS & Digital Commons on the [All Things Policy podcast](https://www.youtube.com/watch?v=RZ52KLRkRZw)
   by the Takshashila Institution
 * [**August**] [Internal AMA](https://web.archive.org/web/20251002075313/https://www.linkedin.com/feed/update/urn:li:activity:7360905447198920704)
@@ -34,6 +39,11 @@ and more. What follows is a non-exhaustive list, in reverse chronological order.
   organized as part of a series of events during [Open Source Week by SFLC.in](https://form.sflc.in/open-source-week-2025/)
 * [**March**] Invited to [FOSSMeet 2025](https://web.archive.org/web/20250410033103mp_/https://www.fossmeet.net/), where I talked about FOSS Policy 101
 * [**March**] Talked about ["FOSS & Tech Policy in India"](https://www.youtube.com/watch?v=B49J5rgOm9k) at [devconf.in 2025](https://web.archive.org/web/20250221074034/https://www.devconf.info/in/)
+
+::: {.column-margin}
+{{< video https://youtu.be/B49J5rgOm9k?si=sqmsdmDNN4Cf8J5C >}}
+:::
+
 * [**February**] Participated in a panel discussion on "The Power of Open Source and Collaborative Technology for Social Change"
   as part of [Dasra Philanthropy Week 2025](https://web.archive.org/web/20251002074622/https://dasraphilanthropyweek.org/25th-february/)
 * [**January**] Moderated a panel discussion on Free & Open Source Software for the not-for-profit ecosystem
@@ -43,6 +53,11 @@ and more. What follows is a non-exhaustive list, in reverse chronological order.
 
 * [**December**] Participated in the "Sustaining DPGs: Open-source, community-led development & maintenance"
   panel discussion at [DPG Dialogues 2024](https://web.archive.org/web/20251002064305/https://codeforgovtech.in/dpg-dialogues/)
+
+::: {.column-margin}
+{{< video https://youtu.be/noMPtyNr1lE?si=FdFYA-Z_MW4lo6hj >}}
+:::
+
 * [**October**] Talked to [Kalvium students](https://www.linkedin.com/feed/update/urn:li:activity:7251978925608722433/)
   about FOSS in Engineering Education, as part of their Hacktober series of talks
 * [**October**] Talked about [FOSS & Progress](https://web.archive.org/web/20241104125228/https://www.linkedin.com/posts/cplfellows_opensource-foss-citizensforpublicleadership-activity-7255985563978117120-bs6P)
@@ -52,7 +67,17 @@ and more. What follows is a non-exhaustive list, in reverse chronological order.
 * Invited to talk about FOSS in Engineering Education at MEC.Conf, MEC Kochi
 * [**July**] Talked about FOSS and the need for interdisciplinary education on the [Cogaan student podcast](https://youtu.be/noMPtyNr1lE?si=laRWynAVTTOP5oVj)
   at GITAM, Hyderabad
+
+::: {.column-margin}
+{{< video https://youtu.be/w0rBAUFxoZw?si=MkDCZrjILFvviJtk >}}
+:::
+
 * [**June**] Discussed Tech Policy & FOSS on the [Policy Jam podcast](https://youtu.be/w0rBAUFxoZw?si=SWkPYthIP2bHH0eH)
+
+::: {.column-margin}
+{{< video https://youtu.be/6Xfj6NyKSgE?si=WDBr2hLqkmbf7oY6 >}}
+:::
+
 * [**April**] Talked about [Software Patents](https://www.youtube.com/watch?v=6Xfj6NyKSgE) at [ChennaiFOSS 2024](https://indiafoss.net/Chennai/2024)
   + [PDF slides](https://github.com/rahulporuri/talks/blob/4cf9f114648747c984ab5aa1c5e890c1cd240ac5/software_patents_chennaifoss_2024.pdf)
 
@@ -65,6 +90,10 @@ and more. What follows is a non-exhaustive list, in reverse chronological order.
 * Talked about the Digital Personal Data Protection Bill at [MumbaiFOSS 2023](https://indiafoss.net/Mumbai/2023)
   + Similar material was presented at the [January FOSS United Bengaluru meetup](https://forum.fossunited.org/t/bengaluru-foss-january-2023-meetup/1688)
   + [PDF slides](https://github.com/rahulporuri/talks/blob/ef75854905ec46eb78ddde8876b0712e2b5643a9/annotated_dpdpb.pdf)
+
+::: {.column-margin}
+{{< video https://youtu.be/4VMUl3z85Gw?si=WoyqWvYgDQ9qD7ix >}}
+:::
 
 ## 2017
 
@@ -86,3 +115,18 @@ and more. What follows is a non-exhaustive list, in reverse chronological order.
   + [PDF slides](https://github.com/rahulporuri/talks/blob/ef75854905ec46eb78ddde8876b0712e2b5643a9/testing.pdf)
 * Workshop on Git & GitHub at [SciPy India conference in 2016](https://web.archive.org/web/20170109162002/http://scipy.in/2016#expand)
   + [PDF slides](https://github.com/rahulporuri/talks/blob/ef75854905ec46eb78ddde8876b0712e2b5643a9/git_and_github.pdf)
+
+## 2011
+
+* Helped organize an Astrophotography workshop for amaterur astronomers at Shaastra, the annual
+  student tech fest at IIT Madras
+
+::: {.column-margin}
+{{< video https://youtu.be/ikxE3Ox12YY?si=io4tP5_BIwgJZzK4 >}}
+:::
+
+## 2010
+
+* Helped organize a make-a-telescope workshop for amateur astronomers at Shaastra, the annual student
+  tech fest at IIT Madras
+* Co-speaker for a session on Radio Astronomy as part of the student Astronomy Club
