@@ -9,32 +9,35 @@ use
 
 ## Short bio
 
-Rahul is the CEO of the FOSS United Foundation, which works to support and promote the
-Free & Open Source Software (FOSS) ecosystem in India. He has been contributing to the FOSS
-ecosystem for more than eight years, both through code contributions and by giving talks about
-various FOSS technologies.
+Rahul is the CEO of the [FOSS United Foundation](https://fossunited.org/), which works to support
+and promote the Free & Open Source Software (FOSS) ecosystem in India. He has been contributing to
+the FOSS ecosystem for more than eight years, both through code contributions and by giving talks
+about various FOSS technologies.
 
 ## Long bio
 
-Rahul is the CEO of the FOSS United Foundation, the Head of Software at Softcircuits Labs, and an
-Advisor to the Saryan Vigyan Foundation.
+Rahul is the CEO of the [FOSS United Foundation](https://fossunited.org/), the Head of Software at
+[Softcircuits Labs](https://www.softcircuits.in/), and an Advisor to the [Saryan Vigyan Foundation](https://www.saryanfoundation.org/).
 
-He pursued B.S. & M.S. in Physics from IIT Madras, and got interested in Programming and
-Free & Open Source Software (FOSS) when creating simulations for toy physics models. After
-graduation, he lucked into a Scientific Software Developer role at Enthought, where he built
-software to solve Scientific and Engineering problems. While at Enthought, he got to work from
-Pune, India, Chennai, India, Austin, Texas, USA, and Cambridge, UK over eight interesting years.
-He started contributing to FOSS projects in the Scientific Python ecosystem while at Enthought,
-eventually becoming a maintainer for a few FOSS projects created at Enthought.
+He pursued [B.S. & M.S. in Physics](https://physics.iitm.ac.in/academics/dualdegreeprogrambs&ms.html)
+from the [Indian Institute of Technology Madras](https://www.iitm.ac.in/), and got interested in Programming
+and Free & Open Source Software (FOSS) when creating simulations for toy physics models. After
+graduation, he lucked into a Scientific Software Developer role at [Enthought](https://www.enthought.com/),
+where he built software to solve Scientific and Engineering problems. While at Enthought, he got to work
+from Pune, India, Chennai, India, Austin, Texas, USA, and Cambridge, UK over eight interesting years.
+He started [contributing to FOSS projects](https://pypi.org/user/rporuri/) in the Scientific Python
+ecosystem while at Enthought, eventually becoming a [maintainer for a few FOSS projects](https://github.com/enthought)
+created at Enthought.
 
-He got lucky again when he received a Scholarship from the FOSS United Foundation to pursue the
-Graduate Certificate in Public Policy (Tech & Policy) course by the Takshashila Institution. He
-started volunteering with the FOSS United Foundation afterwards, speaking at various FOSS United
-events, helping organize IndiaFOSS 2023, and organizing HydFOSS 2023. He eventually joined
-FOSS United full-time in May 2024 and has been with the Foundation ever since.
+He got lucky again when he received a [Scholarship from the FOSS United Foundation](https://forum.fossunited.org/t/technology-policy-course-scholarship-for-foss-devs/1220)
+to pursue the [Graduate Certificate in Public Policy (Tech & Policy) course](https://school.takshashila.org.in/gcpp-technology-policy)
+by the [Takshashila Institution](https://takshashila.org.in/). He started volunteering with the
+FOSS United Foundation afterwards, speaking at various FOSS United events, helping organize
+[IndiaFOSS 2023](https://indiafoss.net/2023), and organizing [HydFOSS 2023](https://indiafoss.net/Hyderabad/2023).
+He eventually joined FOSS United full-time in May 2024 and has been with the Foundation ever since.
 
 He loves to teach and has given talks and workshops on various topics like Python Programming,
 FOSS, FOSS Policy, and Tech Policy in general.
 
-His wife, Dr. Preeti Saryan, co-founded the Saryan Vigyan Foundation. He and his wife argue about
-two things - how to run an organization and how to raise their son, Luffy.
+His wife, [Dr. Preeti Saryan](https://www.saryanfoundation.org/team-4), co-founded the [Saryan Vigyan Foundation](https://www.saryanfoundation.org/).
+He and his wife argue about two things - how to run an organization and how to raise their son, Luffy.
