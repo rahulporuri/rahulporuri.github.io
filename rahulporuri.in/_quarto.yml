@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Poruri Sai Rahul"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    tools:
+      - icon: envelope-at
+        href: mailto:rahul@fossunited.org
+      - icon: mastodon
+        href: https://mastodon.social/@rahulporuri
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rahulporuri
+      - icon: journal-bookmark-fill
+        href: https://rahulporuri.blogspot.com
+      - icon: map-fill
+        href: https://www.openstreetmap.org/user/rahulporuri
+      - icon: instagram
+        href: https://www.instagram.com/rahulporuri/
+      - icon: telegram
+        href: https://t.me/rahulporuri
+      - icon: youtube
+        href: https://www.youtube.com/@rahulporuri
+      - icon: discord
+        href: https://discord.com/users/rahulporuri
+      - icon: reddit
+        href: https://www.reddit.com/user/rahul_poruri/
+      - icon: git
+        href: https://codeberg.org/rahulporuri
+      - icon: whatsapp
+        href: https://wa.me/919014997293
+      - icon: github
+        menu:
+          - text: GitHub Profile
+            href: https://github.com/rahulporuri
+          - text: Source Code
+            href: https://github.com/rahulporuri/rahulporuri.github.io
+      - icon: book-half
+        href: https://app.thestorygraph.com/profile/rahulporuri
+  page-footer:
+    center: "Copyright 2025, Poruri Sai Rahul" 
+    border: true
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css

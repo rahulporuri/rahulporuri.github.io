@@ -1,0 +1,20 @@
+*FOSS / Science / Policy / India*
+
+::: {.column-margin}
+![](images/casual.jpeg){fig-alt="A picture of me, Poruri Sai Rahul"}
+:::
+
+I'm a Physics student-turned software developer, currently cosplaying as the CEO of the
+[FOSS United Foundation](https://fossunited.org). I spend most of my time thinking
+about the incentives that enable or hinder the adoption of Free & Open Source Software in India.
+Thanks to my day job, I get to talk to interesting folks from the industry, academia, and the civil
+society about FOSS and technology in general. If you're trying to understand the Indian FOSS
+ecosystem, or if you're trying to adopt or create FOSS in India, I'm happy to chat.
+
+FOSS communities have existed in India for many years, and FOSS United is one of the newer
+communities. Established in 2020, the FOSS United Foundation aims to promote and support the FOSS
+ecosystem in India. If you're interested in participating in the FOSS United Community, please
+checkout out our [discourse forum](https://forum.fossunited.org), participate in our
+[telegram group](https://t.me/fossunited), or drop by one of our
+[events](https://fossunited.org/events/timeline).
+
