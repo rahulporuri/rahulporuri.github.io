@@ -4,12 +4,18 @@ project:
 
 website:
   title: "Poruri Sai Rahul"
+  repo-url: https://github.com/rahulporuri/rahulporuri.github.io
+  repo-actions: [source, issue]
+  open-graph:
+    locale: en_IN
+    site-name: rahulporuri
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - talks.qmd
+      - now.qmd
     tools:
       - icon: mastodon
         href: https://mastodon.social/@rahulporuri
@@ -49,7 +55,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true

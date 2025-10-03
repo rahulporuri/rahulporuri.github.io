@@ -1,0 +1,35 @@
+# Now
+
+Last updated on October 03, 2025. Page inspired by [nownownow.com](https://nownownow.com/about)
+
+## What am I upto this month
+
+* Recreate this website on 02 October
+* Attending the virtual [second SciPy India Community Call](https://scipy-india.github.io) on 04 October
+* Participating in the virtual [FOSS x Policy reading group](https://fossunited.org/c/fossxpolicy/policy-adoption-oss-goi-2014) on 06 October
+* Help organize the [October monthly event](https://fossunited.org/c/hyderabad/hyd-2025-oct) of the
+  [FOSS United Hyderabad community](https://fossunited.org/c/hyderabad)
+* Engaging with the studens and faculty at [RGMCET](https://www.rgmcet.edu.in/), Nandyala, Andhra Pradesh on 08 October
+  + An introductory session on FOSS and programming aimed at a beginner audience
+  + An interactive introductory session aimed at faculty members across the various departments
+  + A hands-on workshop on Git, GitHub, Markdown, GitHub pages, and GitHub actions
+  + A short mapathon to put RGMCET on [OpenStreetMap](https://openstreetmap.org/)
+* Talking about FOSS at a Future of the Commons Collective event on 12 October in Hyderabad, Telangana
+* Participating in a panel discussion on "Where is Ed in EdTech" at the
+  [EdTech for Equitable Education](https://itforchange.net/edtech-for-equitable-education-critical-conversations)
+  event by [IT for Change](https://itforchange.net/) on 30 October in Bengaluru, Karnataka
+
+## What was I doing last month
+
+* Helped organize the [IndiaFOSS 2025](https://fossunited.org/indiafoss/2025) conference, and the
+  [FOSS in Science devroom](https://fossunited.org/indiafoss/2025/devrooms/science) on 20, 21 September in Bengaluru, Karnataka
+  + Relive IndiaFOSS 2025 from the [livestreams on YouTube](https://www.youtube.com/@FOSSUnited/streams)
+  + Watch talks from the [FOSS in Science devroom on the livestream](https://www.youtube.com/live/NyQced4oJVM?si=by7FcEvy_JatVpSr)
+* Participated in the [Maintainer Summit pre-event](https://fossunited.org/c/indiafoss/maintainer-summit-2025) on 19 September in Bengaluru, Karnataka
+  + Read about the event on the [FOSS United discourse forum](https://forum.fossunited.org/t/proposal-maintainer-summit-indiafoss/5778/20)
+* Organized a workshop on the [Frappe Framework at PyCon India 2025](https://in.pycon.org/2025) on 12 September in Bengaluru, Karnataka
+  + Spent the rest of the conference talking to conference participants about [FOSS United](https://fossunited.org)
+    and [Forklore](https://forklore.in) on 13, 14 September
+* Participated in [Ukhyang, the festival of flowers](https://www.zedtells.com/post/ukhyang-the-festival-of-flowers-art-by-students),
+  from 03-08 September in Ralli, Kinnaur District, Himachal Pradesh
+  + Traveled by taxi, bus, flight, and train back from Ralli, H.P. to Bengaluru, Karnataka
