@@ -1,10 +1,45 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Poruri Sai Rahul",
+    "objectID": "now.html",
+    "href": "now.html",
+    "title": "Now",
     "section": "",
-    "text": "FOSS / Science / Policy / India\n\n\n\nI’m a Physics student-turned software developer, currently cosplaying as the CEO of the FOSS United Foundation. I spend most of my time thinking about the incentives that enable or hinder the adoption of Free & Open Source Software in India. Thanks to my day job, I get to talk to interesting folks from the industry, academia, and the civil society about FOSS and technology in general. If you’re trying to understand the Indian FOSS ecosystem, or if you’re trying to adopt or create FOSS in India, I’m happy to chat.\nFOSS communities have existed in India for many years, and FOSS United is one of the newer communities. Established in 2020, the FOSS United Foundation aims to promote and support the FOSS ecosystem in India. If you’re interested in participating in the FOSS United Community, please checkout out our discourse forum, participate in our telegram group, or drop by one of our events.\nI currently (Oct, 2025) live in Hyderabad, Telangana, India and I participate in a few communities - FOSS United Hyderabad, FOSS x Policy reading group, and SciPy India."
+    "text": "Last updated on October 03, 2025. Page inspired by nownownow.com\n\n\n\nRecreate this website on 02 October\nAttending the virtual second SciPy India Community Call on 04 October\nParticipating in the virtual FOSS x Policy reading group on 06 October\nHelp organize the October monthly event of the FOSS United Hyderabad community\nEngaging with the studens and faculty at RGMCET, Nandyala, Andhra Pradesh on 08 October\n\nAn introductory session on FOSS and programming aimed at a beginner audience\nAn interactive introductory session aimed at faculty members across the various departments\nA hands-on workshop on Git, GitHub, Markdown, GitHub pages, and GitHub actions\nA short mapathon to put RGMCET on OpenStreetMap\n\nTalking about FOSS at a Future of the Commons Collective event on 12 October in Hyderabad, Telangana\nParticipating in a panel discussion on “Where is Ed in EdTech” at the EdTech for Equitable Education event by IT for Change on 30 October in Bengaluru, Karnataka\n\n\n\n\n\nHelped organize the IndiaFOSS 2025 conference, and the FOSS in Science devroom on 20, 21 September in Bengaluru, Karnataka\n\nRelive IndiaFOSS 2025 from the livestreams on YouTube\nWatch talks from the FOSS in Science devroom on the livestream\n\nParticipated in the Maintainer Summit pre-event on 19 September in Bengaluru, Karnataka\n\nRead about the event on the FOSS United discourse forum\n\nOrganized a workshop on the Frappe Framework at PyCon India 2025 on 12 September in Bengaluru, Karnataka\n\nSpent the rest of the conference talking to conference participants about FOSS United and Forklore on 13, 14 September\n\nParticipated in Ukhyang, the festival of flowers, from 03-08 September in Ralli, Kinnaur District, Himachal Pradesh\n\nTraveled by taxi, bus, flight, and train back from Ralli, H.P. to Bengaluru, Karnataka"
+  },
+  {
+    "objectID": "now.html#what-am-i-upto-this-month",
+    "href": "now.html#what-am-i-upto-this-month",
+    "title": "Now",
+    "section": "",
+    "text": "Recreate this website on 02 October\nAttending the virtual second SciPy India Community Call on 04 October\nParticipating in the virtual FOSS x Policy reading group on 06 October\nHelp organize the October monthly event of the FOSS United Hyderabad community\nEngaging with the studens and faculty at RGMCET, Nandyala, Andhra Pradesh on 08 October\n\nAn introductory session on FOSS and programming aimed at a beginner audience\nAn interactive introductory session aimed at faculty members across the various departments\nA hands-on workshop on Git, GitHub, Markdown, GitHub pages, and GitHub actions\nA short mapathon to put RGMCET on OpenStreetMap\n\nTalking about FOSS at a Future of the Commons Collective event on 12 October in Hyderabad, Telangana\nParticipating in a panel discussion on “Where is Ed in EdTech” at the EdTech for Equitable Education event by IT for Change on 30 October in Bengaluru, Karnataka"
+  },
+  {
+    "objectID": "now.html#what-was-i-doing-last-month",
+    "href": "now.html#what-was-i-doing-last-month",
+    "title": "Now",
+    "section": "",
+    "text": "Helped organize the IndiaFOSS 2025 conference, and the FOSS in Science devroom on 20, 21 September in Bengaluru, Karnataka\n\nRelive IndiaFOSS 2025 from the livestreams on YouTube\nWatch talks from the FOSS in Science devroom on the livestream\n\nParticipated in the Maintainer Summit pre-event on 19 September in Bengaluru, Karnataka\n\nRead about the event on the FOSS United discourse forum\n\nOrganized a workshop on the Frappe Framework at PyCon India 2025 on 12 September in Bengaluru, Karnataka\n\nSpent the rest of the conference talking to conference participants about FOSS United and Forklore on 13, 14 September\n\nParticipated in Ukhyang, the festival of flowers, from 03-08 September in Ralli, Kinnaur District, Himachal Pradesh\n\nTraveled by taxi, bus, flight, and train back from Ralli, H.P. to Bengaluru, Karnataka"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "If you’re looking for a bio, please use the text below. If you are looking for pictures, please use\n\nProfessional headshot with dark background\nProfessional headshot with light background\nCasual picture\n\n\n\nRahul is the CEO of the FOSS United Foundation, which works to support and promote the Free & Open Source Software (FOSS) ecosystem in India. He has been contributing to the FOSS ecosystem for more than eight years, both through code contributions and by giving talks about various FOSS technologies.\n\n\n\nRahul is the CEO of the FOSS United Foundation, the Head of Software at Softcircuits Labs, and an Advisor to the Saryan Vigyan Foundation.\nHe pursued B.S. & M.S. in Physics from the Indian Institute of Technology Madras, and got interested in Programming and Free & Open Source Software (FOSS) when creating simulations for toy physics models. After graduation, he lucked into a Scientific Software Developer role at Enthought, where he built software to solve Scientific and Engineering problems. While at Enthought, he got to work from Pune, India, Chennai, India, Austin, Texas, USA, and Cambridge, UK over eight interesting years. He started contributing to FOSS projects in the Scientific Python ecosystem while at Enthought, eventually becoming a maintainer for a few FOSS projects created at Enthought.\nHe got lucky again when he received a Scholarship from the FOSS United Foundation to pursue the Graduate Certificate in Public Policy (Tech & Policy) course by the Takshashila Institution. He started volunteering with the FOSS United Foundation afterwards, speaking at various FOSS United events, helping organize IndiaFOSS 2023, and organizing HydFOSS 2023. He eventually joined FOSS United full-time in May 2024 and has been with the Foundation ever since.\nHe loves to teach and has given talks and workshops on various topics like Python Programming, FOSS, FOSS Policy, and Tech Policy in general.\nHis wife, Dr. Preeti Saryan, co-founded the Saryan Vigyan Foundation. He and his wife argue about two things - how to run an organization and how to raise their son, Luffy."
+  },
+  {
+    "objectID": "about.html#short-bio",
+    "href": "about.html#short-bio",
+    "title": "About",
+    "section": "",
+    "text": "Rahul is the CEO of the FOSS United Foundation, which works to support and promote the Free & Open Source Software (FOSS) ecosystem in India. He has been contributing to the FOSS ecosystem for more than eight years, both through code contributions and by giving talks about various FOSS technologies."
+  },
+  {
+    "objectID": "about.html#long-bio",
+    "href": "about.html#long-bio",
+    "title": "About",
+    "section": "",
+    "text": "Rahul is the CEO of the FOSS United Foundation, the Head of Software at Softcircuits Labs, and an Advisor to the Saryan Vigyan Foundation.\nHe pursued B.S. & M.S. in Physics from the Indian Institute of Technology Madras, and got interested in Programming and Free & Open Source Software (FOSS) when creating simulations for toy physics models. After graduation, he lucked into a Scientific Software Developer role at Enthought, where he built software to solve Scientific and Engineering problems. While at Enthought, he got to work from Pune, India, Chennai, India, Austin, Texas, USA, and Cambridge, UK over eight interesting years. He started contributing to FOSS projects in the Scientific Python ecosystem while at Enthought, eventually becoming a maintainer for a few FOSS projects created at Enthought.\nHe got lucky again when he received a Scholarship from the FOSS United Foundation to pursue the Graduate Certificate in Public Policy (Tech & Policy) course by the Takshashila Institution. He started volunteering with the FOSS United Foundation afterwards, speaking at various FOSS United events, helping organize IndiaFOSS 2023, and organizing HydFOSS 2023. He eventually joined FOSS United full-time in May 2024 and has been with the Foundation ever since.\nHe loves to teach and has given talks and workshops on various topics like Python Programming, FOSS, FOSS Policy, and Tech Policy in general.\nHis wife, Dr. Preeti Saryan, co-founded the Saryan Vigyan Foundation. He and his wife argue about two things - how to run an organization and how to raise their son, Luffy."
   },
   {
     "objectID": "talks.html",
@@ -63,24 +98,10 @@
     "text": "Helped organize a make-a-telescope workshop for amateur astronomers at Shaastra, the annual student tech fest at IIT Madras\nCo-speaker for a session on Radio Astronomy as part of the student Astronomy Club"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Poruri Sai Rahul",
     "section": "",
-    "text": "If you’re looking for a bio, please use the text below. If you are looking for pictures, please use\n\nProfessional headshot with dark background\nProfessional headshot with light background\nCasual picture\n\n\n\nRahul is the CEO of the FOSS United Foundation, which works to support and promote the Free & Open Source Software (FOSS) ecosystem in India. He has been contributing to the FOSS ecosystem for more than eight years, both through code contributions and by giving talks about various FOSS technologies.\n\n\n\nRahul is the CEO of the FOSS United Foundation, the Head of Software at Softcircuits Labs, and an Advisor to the Saryan Vigyan Foundation.\nHe pursued B.S. & M.S. in Physics from the Indian Institute of Technology Madras, and got interested in Programming and Free & Open Source Software (FOSS) when creating simulations for toy physics models. After graduation, he lucked into a Scientific Software Developer role at Enthought, where he built software to solve Scientific and Engineering problems. While at Enthought, he got to work from Pune, India, Chennai, India, Austin, Texas, USA, and Cambridge, UK over eight interesting years. He started contributing to FOSS projects in the Scientific Python ecosystem while at Enthought, eventually becoming a maintainer for a few FOSS projects created at Enthought.\nHe got lucky again when he received a Scholarship from the FOSS United Foundation to pursue the Graduate Certificate in Public Policy (Tech & Policy) course by the Takshashila Institution. He started volunteering with the FOSS United Foundation afterwards, speaking at various FOSS United events, helping organize IndiaFOSS 2023, and organizing HydFOSS 2023. He eventually joined FOSS United full-time in May 2024 and has been with the Foundation ever since.\nHe loves to teach and has given talks and workshops on various topics like Python Programming, FOSS, FOSS Policy, and Tech Policy in general.\nHis wife, Dr. Preeti Saryan, co-founded the Saryan Vigyan Foundation. He and his wife argue about two things - how to run an organization and how to raise their son, Luffy."
-  },
-  {
-    "objectID": "about.html#short-bio",
-    "href": "about.html#short-bio",
-    "title": "About",
-    "section": "",
-    "text": "Rahul is the CEO of the FOSS United Foundation, which works to support and promote the Free & Open Source Software (FOSS) ecosystem in India. He has been contributing to the FOSS ecosystem for more than eight years, both through code contributions and by giving talks about various FOSS technologies."
-  },
-  {
-    "objectID": "about.html#long-bio",
-    "href": "about.html#long-bio",
-    "title": "About",
-    "section": "",
-    "text": "Rahul is the CEO of the FOSS United Foundation, the Head of Software at Softcircuits Labs, and an Advisor to the Saryan Vigyan Foundation.\nHe pursued B.S. & M.S. in Physics from the Indian Institute of Technology Madras, and got interested in Programming and Free & Open Source Software (FOSS) when creating simulations for toy physics models. After graduation, he lucked into a Scientific Software Developer role at Enthought, where he built software to solve Scientific and Engineering problems. While at Enthought, he got to work from Pune, India, Chennai, India, Austin, Texas, USA, and Cambridge, UK over eight interesting years. He started contributing to FOSS projects in the Scientific Python ecosystem while at Enthought, eventually becoming a maintainer for a few FOSS projects created at Enthought.\nHe got lucky again when he received a Scholarship from the FOSS United Foundation to pursue the Graduate Certificate in Public Policy (Tech & Policy) course by the Takshashila Institution. He started volunteering with the FOSS United Foundation afterwards, speaking at various FOSS United events, helping organize IndiaFOSS 2023, and organizing HydFOSS 2023. He eventually joined FOSS United full-time in May 2024 and has been with the Foundation ever since.\nHe loves to teach and has given talks and workshops on various topics like Python Programming, FOSS, FOSS Policy, and Tech Policy in general.\nHis wife, Dr. Preeti Saryan, co-founded the Saryan Vigyan Foundation. He and his wife argue about two things - how to run an organization and how to raise their son, Luffy."
+    "text": "FOSS / Science / Policy / India\n\n\n\nI’m a Physics student-turned software developer, currently cosplaying as the CEO of the FOSS United Foundation. I spend most of my time thinking about the incentives that enable or hinder the adoption of Free & Open Source Software in India. Thanks to my day job, I get to talk to interesting folks from the industry, academia, and the civil society about FOSS and technology in general. If you’re trying to understand the Indian FOSS ecosystem, or if you’re trying to adopt or create FOSS in India, I’m happy to chat.\nFOSS communities have existed in India for many years, and FOSS United is one of the newer communities. Established in 2020, the FOSS United Foundation aims to promote and support the FOSS ecosystem in India. If you’re interested in participating in the FOSS United Community, please checkout out our discourse forum, participate in our telegram group, or drop by one of our events.\nI currently (Oct, 2025) live in Hyderabad, Telangana, India and I participate in a few communities - FOSS United Hyderabad, FOSS x Policy reading group, and SciPy India."
   }
 ]

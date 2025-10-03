@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rahulporuri.github.io/index.html</loc>
-    <lastmod>2025-10-02T09:17:12.743Z</lastmod>
+    <loc>https://rahulporuri.github.io/now.html</loc>
+    <lastmod>2025-10-03T14:39:31.320Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rahulporuri.github.io/about.html</loc>
+    <lastmod>2025-10-02T10:40:34.092Z</lastmod>
   </url>
   <url>
     <loc>https://rahulporuri.github.io/talks.html</loc>
     <lastmod>2025-10-02T10:26:11.694Z</lastmod>
   </url>
   <url>
-    <loc>https://rahulporuri.github.io/about.html</loc>
-    <lastmod>2025-10-02T10:40:34.092Z</lastmod>
+    <loc>https://rahulporuri.github.io/index.html</loc>
+    <lastmod>2025-10-02T09:17:12.743Z</lastmod>
   </url>
 </urlset>
